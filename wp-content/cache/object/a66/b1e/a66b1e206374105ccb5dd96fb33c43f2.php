@@ -1,0 +1,1 @@
+}?Y<?php exit; ?>a:1:{s:7:"content";s:161:"a:2:{s:45:"ewww-image-optimizer/ewww-image-optimizer.php";s:30:"ewww_image_optimizer_uninstall";s:27:"autoptimize/autoptimize.php";s:21:"autoptimize_uninstall";}";}

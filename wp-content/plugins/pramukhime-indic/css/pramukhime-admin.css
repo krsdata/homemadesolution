@@ -1,0 +1,5 @@
+/* pramukhime settings page */
+.pi-language-title {padding:5px;} 
+.pi-language-list {float:left; padding:5px;}
+.pi-language-customname {text-align:right;}
+.pi-language-customname span::after{font:400 20px/1 dashicons; content:"\f156";}

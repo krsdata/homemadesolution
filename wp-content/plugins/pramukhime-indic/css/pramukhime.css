@@ -1,0 +1,83 @@
+.pi-btn {
+	display:inline-block;
+	text-align:center;
+	vertical-align:middle;
+	border: 1px solid #ccc;
+	font:size: 14px;
+	border-radius: 4px;
+	margin: 0;
+	padding:5px;
+	background-color: #fff;
+	cursor:pointer;
+	text-transform:none;
+	user-select:none;
+	-ms-user-select:none;
+	-moz-user-select:none;
+	webkit-user-select:none;
+}
+.pi-btn:hover {
+	color:#333;
+	background-color: #e6e6e6;
+	border-color:#adadad;
+}
+
+.pi-btn i {
+	font-family:'pramukhindic';
+	font-style:normal;
+	color:#333;
+}
+
+.pi-movable {
+	cursor:move;
+}
+
+.pi-more-down:before {
+	font-family: 'dashicons';
+	content:"\f347";
+}
+
+.pi-more-up:before {
+	font-family: 'dashicons';
+	content:"\f343";
+}
+.pi-more-right:before {
+	font-family: 'dashicons';
+	content:"\f345";
+}
+
+.pi-more-left:before {
+	font-family: 'dashicons';
+	content:"\f341";
+}
+
+.pi-external:before {
+	font-family: 'dashicons';
+	content:"\f504";
+}
+
+.pi-reset:before {
+	font-family: 'dashicons';
+	content:"\f531";
+}
+
+/* used for the top drop down */
+.pi-ui-title {
+	font-weight:bold;
+	border-bottom: 1px solid #000;
+}
+
+#pramukhime-layer {border: 1px solid #ddd; padding: 5px; position:fixed; background-color:white; top:2px; right:0px; z-index:1002;}
+/*#pramukhime-layer {font-size: 13px; }*/
+#pramukhime-content {text-align:right; width:100%;}
+#pramukhime-content-english, #pramukhime-content-detail, #pramukhime-reset-message { display:none;}
+
+@media screen and (max-width:782px) {
+	/* remove quick image for smaller screen*/
+	#pramukhime-content-help {
+		display:none;
+	}
+}
+/*
+#pramukhime-help {display:none;width:540px;text-align:left;}
+#pramukhime-help-icon {width:20px; height:20px; cursor: pointer; cursor: hand; background: transparent url("../pramukhime/img/pramukhime-icon.png") repeat scroll 0px -240px;}
+*/

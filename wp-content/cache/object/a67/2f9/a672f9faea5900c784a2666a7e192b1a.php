@@ -1,0 +1,14 @@
+�:Y<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"624";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2017-04-07 13:23:31";s:13:"post_date_gmt";s:19:"2017-04-07 13:23:31";s:12:"post_content";s:2037:"[vc_row][vc_column width="2/3"][vc_column_text]Are you tired of those blackheads on your face? Removing them can be a challenge. But don’t worry, as there is one simple and effective way of getting rid of those blackheads.
+
+It is by using hydrogen peroxide. Wondering how that can help you remove your blackheads? Then read this post!
+<h2>Blackheads – An Overview:</h2>
+Blackheads are a form of acne that is caused when the oil clogged in your pores gets oxidized, and your skin becomes brownish or blackish in color. The so-called blackhead removal products that you find in the market do not work as they promise to. What you need is a home remedy that effectively helps you remove blackheads and gives you great-looking skin. One such remedy is hydrogen peroxide.
+<h2>How To Use Hydrogen Peroxide To Remove Blackheads:</h2>
+Using a hydrogen peroxide treatment to remove blackheads is simple. All you need to do is:
+<ol>
+ 	<li>Wash your face with a mild cleanser to remove any excess oil, bacteria and other impurities from your skin. Wash off with water and pat dry.</li>
+ 	<li>Next, exfoliate the areas of your skin that are affected by blackheads. You can use a homemade face scrub that is a paste made with sugar and water. It will be mildly abrasive to help in removing the oxidized blackhead surfaces. Rinse thoroughly.</li>
+ 	<li>Now it is time for the hydrogen peroxide treatment <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1123998/" target="_blank" rel="nofollow">(2)</a>. Moisten a cotton ball with 3% hydrogen peroxide and gently dab your blackheads with it. Make sure that you avoid your eyebrows and hairline as it will bleach your hair.</li>
+ 	<li>Moisturize your skin with jojoba, avocado or olive oil while it is still damp. Massage 1 teaspoon of the oil on your face. It will act as an emollient that smoothens and protects your skin by retaining moisture.</li>
+</ol>
+[/vc_column_text][/vc_column][vc_column width="1/3"][vc_widget_sidebar sidebar_id="skin_care_sidebar"][/vc_column][/vc_row]";s:10:"post_title";s:50:"How To Use Hydrogen Peroxide To Remove Blackheads?";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:49:"how-to-use-hydrogen-peroxide-to-remove-blackheads";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-04-20 12:17:47";s:17:"post_modified_gmt";s:19:"2017-04-20 12:17:47";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:41:"http://localhost/homemadesolutions/?p=624";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}
