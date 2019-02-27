@@ -1,0 +1,2155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Jan 24 2017 14:54:54 GMT+0400 (Caucasus Standard "
+"Time)\n"
+"PO-Revision-Date: 2017-01-24 15:03+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. Name of the plugin
+msgid "YouTube WD"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://web-dorado.com/products/wordpress-youtube-plugin.html"
+msgstr ""
+
+#. Description of the plugin
+msgid "YouTube WD plugin."
+msgstr ""
+
+#. Author of the plugin
+msgid "WebDorado"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://web-dorado.com"
+msgstr ""
+
+#: ../ytwd_admin_class.php:97 .. /views/admin/view_settings_ytwd.php:14
+msgid "Settings"
+msgstr ""
+
+#: ../ytwd_admin_class.php:99 ../ytwd_admin_class.php:279
+#: ../views/admin/view_themes_ytwd_display.php:11
+msgid "Themes"
+msgstr ""
+
+#: ../ytwd_admin_class.php:102 ..
+#: /views/admin/analytics/view_analytics_ytwd.php:10
+msgid "Reports"
+msgstr ""
+
+#: ../ytwd_admin_class.php:104
+msgid "Featured Plugins"
+msgstr ""
+
+#: ../ytwd_admin_class.php:106
+msgid "Featured Themes"
+msgstr ""
+
+#: ../ytwd_admin_class.php:108
+msgid "Uninstall"
+msgstr ""
+
+#: ../ytwd_admin_class.php:269 ../views/admin/view_youtube_ytwd_display.php:11
+msgid "YouTube"
+msgstr ""
+
+#: ../ytwd_class.php:128 ../views/view_blog_style_frontend.php:94 ..
+#: /views/view_main_video_frontend.php:157
+#: ../views/view_main_video_frontend.php:240
+msgid "Show More"
+msgstr ""
+
+#: ../ytwd_class.php:129 ../views/view_main_video_frontend.php:157 ..
+#: /views/admin/view_themes_ytwd_edit.php:802
+msgid "Show Less"
+msgstr ""
+
+#: ../ytwd_class.php:130
+msgid "Loading"
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:69
+msgid "Item Succesfully Saved."
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:73 ../includes/admin/admin_base_ytwd.php:154
+msgid "Item Succesfully Duplicated."
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:77
+msgid "Item(s) Succesfully Duplicated."
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:81 ../includes/admin/admin_base_ytwd.php:69
+msgid "Item(s) Succesfully Removed."
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:85
+msgid "Item(s) Succesfully Published."
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:89
+msgid "Item(s) Succesfully Unublished."
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:93
+msgid "You Must Select At Least One Item. "
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:97
+msgid "Successfully Imported."
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:101
+msgid "Unexepted File."
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:104
+msgid "Options Succesfully Saved."
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:107
+msgid "The Item Is Successfully Set as Default."
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:296
+msgid ""
+"Important. API key is required for YouTube channels and playlists to work."
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:297
+#: ../views/admin/view_youtube_ytwd_edit.php:458
+#: ../views/admin/analytics/view_analytics_ytwd.php:17
+msgid "GET API KEY FOR FREE"
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:298 ../views/admin/view_settings_ytwd.php:33
+#: .. /views/admin/view_youtube_ytwd_edit.php:459
+#: /views/admin/analytics/view_analytics_ytwd.php:18
+msgid "For getting API key read more in"
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:299 ../views/admin/view_settings_ytwd.php:34
+#: .. /views/admin/view_youtube_ytwd_edit.php:460
+#: /views/admin/analytics/view_analytics_ytwd.php:19
+msgid "User Manual"
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:304 ../views/admin/view_settings_ytwd.php:25
+#: .. /views/admin/view_youtube_ytwd_edit.php:465
+#: /views/admin/analytics/view_analytics_ytwd.php:24
+msgid "API Key"
+msgstr ""
+
+#: ../helpers/ytwd_functions.php:304
+#: ../views/admin/view_themes_ytwd_edit.php:32 .
+#: views/admin/view_youtube_ytwd_edit.php:35 ..
+#: /views/admin/view_youtube_ytwd_edit.php:465
+#: /views/admin/analytics/view_analytics_ytwd.php:24
+msgid "Save"
+msgstr ""
+
+#: ../includes/frontend_ytwd.php:47
+msgid "API key is required."
+msgstr ""
+
+#: ../includes/frontend_ytwd.php:70
+msgid "Not Published."
+msgstr ""
+
+#: ../includes/frontend_ytwd.php:75
+msgid "Data Not Found."
+msgstr ""
+
+#: ../includes/frontend_ytwd.php:334
+msgid "Embed not found. Wrong youtube id or video doesn't exist."
+msgstr ""
+
+#: ../includes/frontend_ytwd.php:353
+msgid "Database data not found."
+msgstr ""
+
+#: ../includes/frontend_ytwd.php:407
+msgid "Dtata Not Found."
+msgstr ""
+
+#: ../includes/frontend_ytwd.php:411
+msgid "Invalid Embed Id."
+msgstr ""
+
+#: ../includes/widgets.php:86 ../includes/admin/youtube_ytwd.php:63 ..
+#: /includes/admin/youtube_ytwd.php:75 ../includes/admin/youtube_ytwd.php:77
+#: /includes/admin/youtube_ytwd.php:79
+#: ../views/admin/view_themes_ytwd_display. php:18
+#: ../views/admin/view_themes_ytwd_display.php:62
+#: /views/admin/view_themes_ytwd_edit.php:48
+#: /views/admin/view_youtube_ytwd_display.php:18
+#: /views/admin/view_youtube_ytwd_display.php:62
+#: /views/admin/view_youtube_ytwd_edit.php:73
+#: /views/admin/analytics/view_analytics_deleted_ytwd.php:27
+msgid "Title"
+msgstr ""
+
+#: ../includes/widgets.php:90
+msgid "Select Embed"
+msgstr ""
+
+#: ../includes/widgets.php:102 ../views/admin/view_youtube_ytwd_edit.php:179
+msgid "Width"
+msgstr ""
+
+#: ../includes/widgets.php:106 ../views/admin/view_youtube_ytwd_edit.php:195
+msgid "Height"
+msgstr ""
+
+#: ../includes/widgets.php:111
+msgid "Text Above Embed"
+msgstr ""
+
+#: ../includes/widgets.php:115
+msgid "Text Below Embed"
+msgstr ""
+
+#: ../includes/admin/admin_base_ytwd.php:77
+msgid "You Can Not Remove Default Theme."
+msgstr ""
+
+#: ../includes/admin/admin_base_ytwd.php:84
+msgid "You must select at least one item."
+msgstr ""
+
+#: ../includes/admin/admin_base_ytwd.php:120
+#: ../includes/admin/youtube_ytwd.php:79 ../views/view_channel_header.php:152
+#: .. /views/admin/view_themes_ytwd_display.php:76
+#: /views/admin/view_youtube_ytwd_display.php:75
+msgid "Published"
+msgstr ""
+
+#: ../includes/admin/admin_base_ytwd.php:120
+msgid "Unpublished"
+msgstr ""
+
+#: ../includes/admin/admin_base_ytwd.php:121
+msgid "Item(s) Succesfully "
+msgstr ""
+
+#: ../includes/admin/analytics_ytwd.php:34
+msgid "View Activity"
+msgstr ""
+
+#: ../includes/admin/analytics_ytwd.php:34
+msgid "Impressions vs Plays"
+msgstr ""
+
+#: ../includes/admin/analytics_ytwd.php:34
+msgid "Top Played Videos"
+msgstr ""
+
+#: ../includes/admin/analytics_ytwd.php:34
+msgid "Deleted Content"
+msgstr ""
+
+#: ../includes/admin/analytics_ytwd.php:34 ..
+#: /views/admin/analytics/view_analytics_blocked_ytwd.php:13
+msgid "Blocked Countries"
+msgstr ""
+
+#: ../includes/admin/analytics_ytwd.php:35 ..
+#: /views/admin/analytics/view_analytics_blocked_ytwd.php:12
+#: /views/admin/analytics/view_analytics_top_played_ytwd.php:12
+msgid "Video"
+msgstr ""
+
+#: ../includes/admin/analytics_ytwd.php:35
+msgid "Playlists"
+msgstr ""
+
+#: ../includes/admin/analytics_ytwd.php:35
+msgid "Channels"
+msgstr ""
+
+#: ../includes/admin/analytics_ytwd.php:106
+#: ../includes/admin/analytics_ytwd.php:107
+#: ../includes/admin/analytics_ytwd.php:108
+msgid "Deleted"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:47
+msgid "Main Video / Blog Style"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:47
+msgid "Channel / Playlist Header"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:47 ../includes/admin/youtube_ytwd.php:65
+msgid "Thumbnails"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:47 ../includes/admin/youtube_ytwd.php:65
+msgid "List"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:47 ../includes/admin/youtube_ytwd.php:65
+msgid "Carousel"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:47 ../includes/admin/youtube_ytwd.php:65
+msgid "Table"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:47 ../includes/admin/youtube_ytwd.php:65
+msgid "Blog Style"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:47
+#: ../views/admin/view_youtube_ytwd_edit.php:537
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:49 ../includes/admin/themes_ytwd.php:51
+msgid "None"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:49
+msgid "Solid"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:49
+msgid "Dotted"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:49
+msgid "Dashed"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:49
+#: ../views/admin/view_themes_ytwd_edit.php:1690
+#: ../views/admin/view_themes_ytwd_edit.php:2255
+msgid "Double"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:49
+msgid "Groove"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:49
+msgid "Ridge"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:49
+msgid "Inset"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:49
+msgid "Outset"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:51
+msgid "Rotate"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:51
+msgid "Scale"
+msgstr ""
+
+#: ../includes/admin/themes_ytwd.php:51
+msgid "Skew"
+msgstr ""
+
+#: ../includes/admin/uninstall_ytwd.php:60
+msgid "The following Database Tables successfully deleted:"
+msgstr ""
+
+#: ../includes/admin/uninstall_ytwd.php:66
+#: ../views/admin/view_uninstall_ytwd.php:7
+msgid "Uninstall YouTube WD"
+msgstr ""
+
+#: ../includes/admin/uninstall_ytwd.php:67
+msgid "Click Here"
+msgstr ""
+
+#: ../includes/admin/uninstall_ytwd.php:67
+msgid ""
+" To Finish the Uninstallation and YouTube WD will be Deactivated "
+"Automatically."
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:46
+msgid "General"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:46
+msgid "Player"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:46
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:61
+#: ../views/admin/view_themes_ytwd_edit.php:1231
+#: ../views/admin/view_themes_ytwd_edit.php:1494 ..
+#: /views/admin/view_themes_ytwd_edit.php:1774
+#: /views/admin/view_themes_ytwd_edit.php:2263
+msgid "Left"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:61
+#: ../views/admin/view_themes_ytwd_edit.php:1232
+#: ../views/admin/view_themes_ytwd_edit.php:1775 ..
+#: /views/admin/view_themes_ytwd_edit.php:2264
+msgid "Center"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:61
+#: ../views/admin/view_themes_ytwd_edit.php:1233
+#: ../views/admin/view_themes_ytwd_edit.php:1495 ..
+#: /views/admin/view_themes_ytwd_edit.php:1776
+#: /views/admin/view_themes_ytwd_edit.php:2265
+msgid "Right"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:63
+msgid "Relevance"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:63 ..
+#: /views/admin/analytics/view_analytics_viewing_activity_ytwd.php:8
+msgid "Date"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:63
+msgid "Rating"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:63 ../includes/admin/youtube_ytwd.php:75
+#: .. /includes/admin/youtube_ytwd.php:77
+#: ../views/view_blog_style_frontend.php:81
+#: /views/view_carousel_frontend.php:99 ../views/view_list_frontend.php:100
+#: /views/view_main_video_frontend.php:109 ../views/view_table_frontend.php:71
+#: /views/view_thumbnails_frontend.php:102
+#: ../views/admin/view_themes_ytwd_edit. php:792
+#: ../views/admin/view_themes_ytwd_edit.php:1285
+#: /views/admin/view_themes_ytwd_edit.php:1545
+#: /views/admin/view_themes_ytwd_edit.php:1824
+#: /views/admin/view_themes_ytwd_edit.php:2042
+#: /views/admin/view_themes_ytwd_edit.php:2185
+#: /views/admin/view_themes_ytwd_edit.php:2219
+msgid "Comments Count"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:63
+msgid "View Count"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:67
+msgid "Custom"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:69
+msgid "Fade In"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:69
+msgid "Move Up"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:69
+msgid "Scale Up"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:69
+msgid "Fall Perspective"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:69
+msgid "Fly"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:69
+msgid "Flip"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:69
+msgid "Helix"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:69
+msgid "Pop Up"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:73
+msgid "Bottom of the Player"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:73
+msgid "Above Player"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:75 ../includes/admin/youtube_ytwd.php:77
+msgid "Published Date"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:75 ../includes/admin/youtube_ytwd.php:77
+#: .. /includes/admin/youtube_ytwd.php:79
+msgid "Description"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:75 ../includes/admin/youtube_ytwd.php:77
+#: .. /includes/admin/youtube_ytwd.php:79
+msgid "Views Count"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:75 ../includes/admin/youtube_ytwd.php:77
+msgid "Likes"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:75 ../includes/admin/youtube_ytwd.php:77
+msgid "Dislikes"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:75
+msgid "Duration"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:77
+msgid "Likes Ratio"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:77
+#: ../views/view_main_video_frontend.php:179
+#: ../views/admin/view_themes_ytwd_edit.php:811
+msgid "Comments"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:77
+msgid "Channel Logo"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:77
+msgid "Channel Title"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:77 ../includes/admin/youtube_ytwd.php:79
+msgid "Subscribe Button"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:79
+msgid "Logo"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:79
+msgid "Banner"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:79 ../views/view_channel_header.php:64
+#: .. /views/admin/view_themes_ytwd_edit.php:968
+msgid "Videos Count"
+msgstr ""
+
+#: ../includes/admin/youtube_ytwd.php:79
+msgid "Subscribers Count"
+msgstr ""
+
+#: ../templates/not_found.php:61
+msgid "Not Found"
+msgstr ""
+
+#: ../templates/not_found.php:80
+msgid "Video Not Found"
+msgstr ""
+
+#: ../update/updates.php:86
+msgid "Updates"
+msgstr ""
+
+#: ../update/updates.php:279
+msgid "YouTube WD plugin"
+msgstr ""
+
+#: ../views/view_blog_style_frontend.php:45
+msgid "Duration:"
+msgstr ""
+
+#: ../views/view_blog_style_frontend.php:60
+#: ../views/view_carousel_frontend.php:75 ../views/view_channel_header.php:78
+#: ../views/view_list_frontend.php:79 .. /views/view_table_frontend.php:50
+#: ../views/view_thumbnails_frontend.php:78
+#: /views/admin/view_themes_ytwd_edit.php:974
+#: /views/admin/view_themes_ytwd_edit.php:1277
+#: /views/admin/view_themes_ytwd_edit.php:1537
+#: /views/admin/view_themes_ytwd_edit.php:1816
+#: /views/admin/view_themes_ytwd_edit.php:2034
+#: /views/admin/view_themes_ytwd_edit.php:2173
+#: /views/admin/view_themes_ytwd_edit.php:2207
+msgid "Views"
+msgstr ""
+
+#: ../views/view_blog_style_frontend.php:67
+#: ../views/view_carousel_frontend.php:83 ../views/view_list_frontend.php:86
+#: ../views/view_main_video_frontend.php:114
+#: ../views/view_table_frontend.php:57 ../views/view_thumbnails_frontend.php:
+#: 86 ../views/admin/view_themes_ytwd_edit.php:793 ..
+#: /views/admin/view_themes_ytwd_edit.php:1281
+#: /views/admin/view_themes_ytwd_edit.php:1541
+#: /views/admin/view_themes_ytwd_edit.php:1820
+#: /views/admin/view_themes_ytwd_edit.php:2038
+#: /views/admin/view_themes_ytwd_edit.php:2177
+#: /views/admin/view_themes_ytwd_edit.php:2211
+msgid "Likes Count"
+msgstr ""
+
+#: ../views/view_blog_style_frontend.php:74
+#: ../views/view_carousel_frontend.php:91 ../views/view_list_frontend.php:93
+#: ../views/view_table_frontend.php:64 ..
+#: /views/view_thumbnails_frontend.php:94
+#: ../views/admin/view_themes_ytwd_edit. php:2181
+#: ../views/admin/view_themes_ytwd_edit.php:2215
+msgid "Disikes Count"
+msgstr ""
+
+#: ../views/view_channel_header.php:71
+#: ../views/admin/view_themes_ytwd_edit.php:971
+msgid "Subscribers"
+msgstr ""
+
+#: ../views/view_channel_header.php:183
+msgid "videos"
+msgstr ""
+
+#: ../views/view_gallery_frontend.php:13
+msgid "Search"
+msgstr ""
+
+#: ../views/view_main_video_frontend.php:36
+#: ../views/view_main_video_frontend.php:37
+#: ../views/admin/view_themes_ytwd_edit.php:745 ..
+#: /views/admin/view_themes_ytwd_edit.php:746
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../views/view_main_video_frontend.php:40
+#: ../views/view_main_video_frontend.php:41
+#: ../views/admin/view_themes_ytwd_edit.php:748 ..
+#: /views/admin/view_themes_ytwd_edit.php:749
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../views/view_main_video_frontend.php:43
+#: ../views/view_main_video_frontend.php:44
+#: ../views/admin/view_themes_ytwd_edit.php:751 ..
+#: /views/admin/view_themes_ytwd_edit.php:752
+msgid "Share on Google+"
+msgstr ""
+
+#: ../views/view_main_video_frontend.php:46
+#: ../views/view_main_video_frontend.php:47
+#: ../views/admin/view_themes_ytwd_edit.php:754 ..
+#: /views/admin/view_themes_ytwd_edit.php:755
+msgid "Share on Linkedin"
+msgstr ""
+
+#: ../views/view_main_video_frontend.php:50
+#: ../views/view_main_video_frontend.php:51
+#: ../views/admin/view_themes_ytwd_edit.php:758 ..
+#: /views/admin/view_themes_ytwd_edit.php:759
+msgid "Share on Pinterest"
+msgstr ""
+
+#: ../views/view_main_video_frontend.php:53
+#: ../views/view_main_video_frontend.php:54
+#: ../views/admin/view_themes_ytwd_edit.php:761 ..
+#: /views/admin/view_themes_ytwd_edit.php:762
+msgid "Share on Tumblr"
+msgstr ""
+
+#: ../views/view_main_video_frontend.php:94
+#: ../views/admin/view_themes_ytwd_edit. php:785
+msgid "views"
+msgstr ""
+
+#: ../views/view_main_video_frontend.php:119
+#: ../views/admin/view_themes_ytwd_edit. php:795
+msgid "Dislikes Count"
+msgstr ""
+
+#: ../views/view_main_video_frontend.php:145
+#: ../views/view_main_video_frontend. php:166
+#: ../views/admin/view_themes_ytwd_edit.php:805
+msgid "Published at"
+msgstr ""
+
+#: ../views/view_main_video_frontend.php:199
+#, php-format
+msgid "View all %s replays"
+msgstr ""
+
+#: ../views/view_main_video_frontend.php:199
+msgid "View replay"
+msgstr ""
+
+#: ../views/view_pagination_frontend.php:14
+#: ../views/admin/view_themes_ytwd_edit. php:2345
+msgid "of"
+msgstr ""
+
+#: ../views/view_pagination_frontend.php:28
+#: ../views/admin/view_themes_ytwd_edit. php:2358
+msgid "Load More"
+msgstr ""
+
+#: ../views/view_youtube_frontend.php:26
+msgid "Close"
+msgstr ""
+
+#: ../views/view_youtube_frontend.php:30
+msgid "Next"
+msgstr ""
+
+#: ../views/view_youtube_frontend.php:33
+msgid "Previous"
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:6
+msgid " This section allows you to change settings."
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:7 ..
+#: /views/admin/view_themes_ytwd_display.php:4
+#: /views/admin/view_themes_ytwd_edit.php:10
+#: /views/admin/view_youtube_ytwd_display.php:4
+#: /views/admin/view_youtube_ytwd_edit.php:20
+#: /views/admin/analytics/view_analytics_ytwd.php:5
+msgid "Read More in User Manual."
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:20
+#: ../views/admin/view_themes_ytwd_edit. php:35
+#: ../views/admin/view_youtube_ytwd_edit.php:38
+msgid "Apply"
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:25
+msgid "Set api key."
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:32
+msgid "Get Key"
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:38
+msgid ""
+"Turn on this setting to boost the speed of your YouTube video, playlist or "
+"channel."
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:38
+msgid "Enable Caching"
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:41
+#: ../views/admin/view_settings_ytwd.php:57
+#: ../views/admin/view_settings_ytwd.php:66 ../views/admin/view_settings_ytwd.
+#: php:75 ../views/admin/view_themes_ytwd_edit.php:1159 ..
+#: /views/admin/view_themes_ytwd_edit.php:1241
+#: /views/admin/view_themes_ytwd_edit.php:1437
+#: /views/admin/view_themes_ytwd_edit.php:1503
+#: /views/admin/view_themes_ytwd_edit.php:1679
+#: /views/admin/view_themes_ytwd_edit.php:1784
+#: /views/admin/view_themes_ytwd_edit.php:2008
+#: /views/admin/view_themes_ytwd_edit.php:2379
+#: ../views/admin/view_uninstall_ytwd. php:46
+#: ../views/admin/view_youtube_ytwd_edit.php:143
+#: /views/admin/view_youtube_ytwd_edit.php:220
+#: /views/admin/view_youtube_ytwd_edit.php:231
+#: /views/admin/view_youtube_ytwd_edit.php:253
+#: /views/admin/view_youtube_ytwd_edit.php:264
+#: /views/admin/view_youtube_ytwd_edit.php:275
+#: /views/admin/view_youtube_ytwd_edit.php:286
+#: /views/admin/view_youtube_ytwd_edit.php:297
+#: /views/admin/view_youtube_ytwd_edit.php:317
+#: /views/admin/view_youtube_ytwd_edit.php:328
+#: /views/admin/view_youtube_ytwd_edit.php:340
+#: /views/admin/view_youtube_ytwd_edit.php:352
+#: /views/admin/view_youtube_ytwd_edit.php:364
+#: /views/admin/view_youtube_ytwd_edit.php:375
+#: /views/admin/view_youtube_ytwd_edit.php:386
+#: /views/admin/view_youtube_ytwd_edit.php:477
+#: /views/admin/view_youtube_ytwd_edit.php:583
+#: /views/admin/view_youtube_ytwd_edit.php:622
+#: /views/admin/view_youtube_ytwd_edit.php:703
+#: /views/admin/view_youtube_ytwd_edit.php:712
+#: /views/admin/view_youtube_ytwd_edit.php:722
+#: /views/admin/view_youtube_ytwd_edit.php:757
+#: /views/admin/view_youtube_ytwd_edit.php:767
+msgid "Yes"
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:43
+#: ../views/admin/view_settings_ytwd.php:59
+#: ../views/admin/view_settings_ytwd.php:68 ../views/admin/view_settings_ytwd.
+#: php:77 ../views/admin/view_themes_ytwd_edit.php:1161 ..
+#: /views/admin/view_themes_ytwd_edit.php:1243
+#: /views/admin/view_themes_ytwd_edit.php:1439
+#: /views/admin/view_themes_ytwd_edit.php:1505
+#: /views/admin/view_themes_ytwd_edit.php:1681
+#: /views/admin/view_themes_ytwd_edit.php:1786
+#: /views/admin/view_themes_ytwd_edit.php:2010
+#: /views/admin/view_themes_ytwd_edit.php:2381
+#: /views/admin/view_youtube_ytwd_edit.php:145
+#: /views/admin/view_youtube_ytwd_edit.php:222
+#: /views/admin/view_youtube_ytwd_edit.php:233
+#: /views/admin/view_youtube_ytwd_edit.php:255
+#: /views/admin/view_youtube_ytwd_edit.php:266
+#: /views/admin/view_youtube_ytwd_edit.php:277
+#: /views/admin/view_youtube_ytwd_edit.php:288
+#: /views/admin/view_youtube_ytwd_edit.php:299
+#: /views/admin/view_youtube_ytwd_edit.php:319
+#: /views/admin/view_youtube_ytwd_edit.php:330
+#: /views/admin/view_youtube_ytwd_edit.php:342
+#: /views/admin/view_youtube_ytwd_edit.php:354
+#: /views/admin/view_youtube_ytwd_edit.php:366
+#: /views/admin/view_youtube_ytwd_edit.php:377
+#: /views/admin/view_youtube_ytwd_edit.php:388
+#: /views/admin/view_youtube_ytwd_edit.php:479
+#: /views/admin/view_youtube_ytwd_edit.php:585
+#: /views/admin/view_youtube_ytwd_edit.php:624
+#: /views/admin/view_youtube_ytwd_edit.php:705
+#: /views/admin/view_youtube_ytwd_edit.php:714
+#: /views/admin/view_youtube_ytwd_edit.php:724
+#: /views/admin/view_youtube_ytwd_edit.php:759
+#: /views/admin/view_youtube_ytwd_edit.php:769
+msgid "No"
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:47
+msgid ""
+"The content will be cached based on Cache Time (hours), and it will be "
+"refreshed after reaching the time limit."
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:47
+msgid "Cache Time"
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:50
+msgid "Hours."
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:54
+msgid ""
+"Enabling this setting will include the thumbnails of deleted videos in your "
+"YouTube gallery."
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:54
+msgid "Show Deleted Video Thumbnails"
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:63
+msgid ""
+" This option lets you enable meta keywords and descriptions for the videos. "
+"They are used for proper crawling and indexation by search engines."
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:63
+msgid "Add Video SEO Tags"
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:72
+msgid ""
+"Add Open Graph markup to your YouTube entries. This recommended to enable "
+"for Facebook sharing, it will set the video thumbnail as the post image."
+msgstr ""
+
+#: ../views/admin/view_settings_ytwd.php:72
+msgid "Facebook Open Graph Markup"
+msgstr ""
+
+#: ../views/admin/view_shortcode_ytwd.php:38
+msgid "Select YouTube Embed"
+msgstr ""
+
+#: ../views/admin/view_shortcode_ytwd.php:41
+msgid "-Select-"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_display.php:3
+msgid "This section allows you to create, edit and delete themes."
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_display.php:12 ..
+#: /views/admin/view_youtube_ytwd_display.php:12
+msgid "Add new"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_display.php:24 ..
+#: /views/admin/view_youtube_ytwd_display.php:24
+msgid "Publish"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_display.php:27 ..
+#: /views/admin/view_youtube_ytwd_display.php:27
+msgid "Unpublish"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_display.php:30 ..
+#: /views/admin/view_youtube_ytwd_display.php:30
+msgid "Duplicate"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_display.php:33 ..
+#: /views/admin/view_youtube_ytwd_display.php:33
+msgid "Do you want to delete selected items?"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_display.php:33 ..
+#: /views/admin/view_youtube_ytwd_display.php:33
+msgid "Delete"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_display.php:47 ..
+#: /views/admin/view_youtube_ytwd_display.php:47
+msgid "Select All"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_display.php:69 ..
+#: /views/admin/view_themes_ytwd_edit.php:1039
+#: /views/admin/view_themes_ytwd_edit.php:1318
+#: /views/admin/view_themes_ytwd_edit.php:1579
+#: /views/admin/view_themes_ytwd_edit.php:1919
+msgid "Default"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:9
+msgid " This section allows you to create, edit theme."
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:20
+msgid "Add Theme"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:23
+msgid "Edit Theme"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:38 ..
+#: /views/admin/view_youtube_ytwd_edit.php:41
+msgid "Save as Copy"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:41 ..
+#: /views/admin/view_youtube_ytwd_edit.php:44
+msgid "Cancel"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:580
+msgid "These options apply both for main video and blog style view."
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:583 ..
+#: /views/admin/view_themes_ytwd_edit.php:1030
+msgid "Background  Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:589 ..
+#: /views/admin/view_themes_ytwd_edit.php:906
+#: /views/admin/view_themes_ytwd_edit.php:1046
+#: /views/admin/view_themes_ytwd_edit.php:1324
+#: /views/admin/view_themes_ytwd_edit.php:1585
+#: /views/admin/view_themes_ytwd_edit.php:1881
+#: /views/admin/view_themes_ytwd_edit.php:2074
+msgid "Padding"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:595 ..
+#: /views/admin/view_themes_ytwd_edit.php:858
+msgid "Title Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:601
+msgid "Title Text Hover Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:607 ..
+#: /views/admin/view_themes_ytwd_edit.php:864
+#: /views/admin/view_themes_ytwd_edit.php:1171
+#: /views/admin/view_themes_ytwd_edit.php:1443
+#: /views/admin/view_themes_ytwd_edit.php:1714
+#: /views/admin/view_themes_ytwd_edit.php:2097
+msgid "Title Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:613
+msgid "Share Buttons Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:619
+msgid "Share Buttons Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:625
+msgid "Channel Title Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:631
+msgid "Channel Title Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:637
+msgid "Views Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:643
+msgid "Views Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:649
+msgid "Comments, Likes, Dislikes Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:655
+msgid "Comments, Likes, Dislikes Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:661
+msgid "Published Date Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:667
+msgid "Published Date Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:673 ..
+#: /views/admin/view_themes_ytwd_edit.php:870
+msgid "Description Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:679 ..
+#: /views/admin/view_themes_ytwd_edit.php:876
+msgid "Description Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:685
+msgid "Comment Author Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:691
+msgid "Comment Author Text Hover Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:697
+msgid "Comment Author Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:703
+msgid "Comment Publshed Date Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:709
+msgid "Comment Publshed Date Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:715
+msgid "Comment Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:721
+msgid "Comment Text Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:727
+msgid "Captions Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:852 ..
+#: /views/admin/view_themes_ytwd_edit.php:900
+#: /views/admin/view_themes_ytwd_edit.php:1309
+#: /views/admin/view_themes_ytwd_edit.php:2068
+msgid "Background Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:882 ..
+#: /views/admin/view_youtube_ytwd_edit.php:88
+#: /views/admin/view_youtube_ytwd_edit.php:730
+msgid "Channel"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:885
+msgid "Plays, Subscribers, Views Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:891
+msgid "Plays, Subscribers, Views Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:897 ..
+#: /views/admin/view_youtube_ytwd_edit.php:87
+#: /views/admin/view_youtube_ytwd_edit.php:730
+msgid "Playlist"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:929
+msgid "Videos Count Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:935
+msgid "Videos Count Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:941
+msgid "Published Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:947
+msgid "Published Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1036 ..
+#: /views/admin/view_themes_ytwd_edit.php:1315
+#: /views/admin/view_themes_ytwd_edit.php:1576
+#: /views/admin/view_themes_ytwd_edit.php:1916
+msgid "Items Shape"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1041 ..
+#: /views/admin/view_themes_ytwd_edit.php:1320
+#: /views/admin/view_themes_ytwd_edit.php:1581
+#: /views/admin/view_themes_ytwd_edit.php:1921
+msgid "Circle"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1069 ..
+#: /views/admin/view_themes_ytwd_edit.php:1347
+#: /views/admin/view_themes_ytwd_edit.php:1608
+msgid "Border Width"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1075 ..
+#: /views/admin/view_themes_ytwd_edit.php:1353
+#: /views/admin/view_themes_ytwd_edit.php:1614
+msgid "Border Style"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1087 ..
+#: /views/admin/view_themes_ytwd_edit.php:1365
+#: /views/admin/view_themes_ytwd_edit.php:1626
+msgid "Border Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1093 ..
+#: /views/admin/view_themes_ytwd_edit.php:1371
+#: /views/admin/view_themes_ytwd_edit.php:1632
+msgid "Border Radius"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1099 ..
+#: /views/admin/view_themes_ytwd_edit.php:1377
+#: /views/admin/view_themes_ytwd_edit.php:1638
+#: /views/admin/view_themes_ytwd_edit.php:1955
+#: /views/admin/view_themes_ytwd_edit.php:2145
+msgid "Box Shadow"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1106 ..
+#: /views/admin/view_themes_ytwd_edit.php:1384
+msgid "Hover Effect"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1118 ..
+#: /views/admin/view_themes_ytwd_edit.php:1396
+msgid "Hover Effect Value"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1121 ..
+#: /views/admin/view_themes_ytwd_edit.php:1399
+msgid "E.g. Rotate: 10deg, Scale: 1.5, Skew: 10deg."
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1125 ..
+#: /views/admin/view_themes_ytwd_edit.php:1403
+#: /views/admin/view_themes_ytwd_edit.php:1645
+#: /views/admin/view_themes_ytwd_edit.php:1974
+msgid "Hover Border Width"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1131 ..
+#: /views/admin/view_themes_ytwd_edit.php:1409
+#: /views/admin/view_themes_ytwd_edit.php:1651
+#: /views/admin/view_themes_ytwd_edit.php:1980
+msgid "Hover Border Style"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1143 ..
+#: /views/admin/view_themes_ytwd_edit.php:1421
+#: /views/admin/view_themes_ytwd_edit.php:1663
+#: /views/admin/view_themes_ytwd_edit.php:1992
+msgid "Hover Border Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1149 ..
+#: /views/admin/view_themes_ytwd_edit.php:1427
+#: /views/admin/view_themes_ytwd_edit.php:1669
+#: /views/admin/view_themes_ytwd_edit.php:1998
+msgid "Hover Opacity"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1152 ..
+#: /views/admin/view_themes_ytwd_edit.php:1430
+#: /views/admin/view_themes_ytwd_edit.php:1672
+#: /views/admin/view_themes_ytwd_edit.php:2001
+msgid "Value must be between 0 to 1."
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1156 ..
+#: /views/admin/view_themes_ytwd_edit.php:1434
+#: /views/admin/view_themes_ytwd_edit.php:1676
+#: /views/admin/view_themes_ytwd_edit.php:2005
+msgid "Transition"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1165 ..
+#: /views/admin/view_themes_ytwd_edit.php:1708
+msgid "Video Info Background Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1177 ..
+#: /views/admin/view_themes_ytwd_edit.php:1449
+#: /views/admin/view_themes_ytwd_edit.php:1720
+#: /views/admin/view_themes_ytwd_edit.php:2103
+msgid "Title Font Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1183 ..
+#: /views/admin/view_themes_ytwd_edit.php:1455
+#: /views/admin/view_themes_ytwd_edit.php:1726
+#: /views/admin/view_themes_ytwd_edit.php:2109
+msgid "Published At Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1189 ..
+#: /views/admin/view_themes_ytwd_edit.php:1461
+#: /views/admin/view_themes_ytwd_edit.php:1732
+#: /views/admin/view_themes_ytwd_edit.php:2115
+msgid "Published At Font Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1195 ..
+#: /views/admin/view_themes_ytwd_edit.php:1467
+#: /views/admin/view_themes_ytwd_edit.php:1738
+#: /views/admin/view_themes_ytwd_edit.php:2121
+msgid "Description  Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1201 ..
+#: /views/admin/view_themes_ytwd_edit.php:1473
+#: /views/admin/view_themes_ytwd_edit.php:1744
+#: /views/admin/view_themes_ytwd_edit.php:2127
+msgid "Description Font Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1207 ..
+#: /views/admin/view_themes_ytwd_edit.php:1479
+#: /views/admin/view_themes_ytwd_edit.php:1750
+#: /views/admin/view_themes_ytwd_edit.php:1962
+#: /views/admin/view_themes_ytwd_edit.php:2133
+msgid "Views, Likes, Comments Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1213 ..
+#: /views/admin/view_themes_ytwd_edit.php:1485
+#: /views/admin/view_themes_ytwd_edit.php:1756
+#: /views/admin/view_themes_ytwd_edit.php:1968
+#: /views/admin/view_themes_ytwd_edit.php:2139
+msgid "Views, Likes, Comments Font Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1219 ..
+#: /views/admin/view_themes_ytwd_edit.php:1762
+msgid "Views, Likes, Comments Alignment"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1222 ..
+#: /views/admin/view_themes_ytwd_edit.php:1765
+#: /views/admin/view_youtube_ytwd_edit.php:596
+msgid "Inline"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1223 ..
+#: /views/admin/view_themes_ytwd_edit.php:1766
+msgid "Block"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1228 ..
+#: /views/admin/view_themes_ytwd_edit.php:1771
+msgid "Text Alignment"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1238 ..
+#: /views/admin/view_themes_ytwd_edit.php:1500
+#: /views/admin/view_themes_ytwd_edit.php:1781
+msgid "Show Horizontal Line"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1491
+msgid "Thumbnail Position"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1685
+msgid "Right/Left Buttons Style"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1688 ..
+#: /views/admin/view_themes_ytwd_edit.php:2253
+msgid "Chevron"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1689 ..
+#: /views/admin/view_themes_ytwd_edit.php:2254
+msgid "Angle"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1695
+msgid "Right/Left Buttons Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1701
+msgid "Right/Left Buttons Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1851
+msgid "Table Border Width"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1857
+msgid "Table Border Style"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1869
+msgid "Table Border Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1875
+msgid "Body Background Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1904
+msgid "Body Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1910
+msgid "Body Text Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1925
+msgid "Item Border Width"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1931
+msgid "Item Border Style"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1943
+msgid "Item Border Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:1949
+msgid "Item Border Radius"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:2238
+msgid "Prev/Next Buttons Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:2244
+msgid "Prev/Next Buttons Text Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:2250
+msgid "Prev/Next Buttons Style"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:2260
+msgid "Pagination Alignment"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:2270
+msgid "Load More Button Width"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:2276
+msgid "Load More Button Height"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:2282
+msgid "Load More Button Text Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:2288
+msgid "Load More Button Background Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:2294
+msgid "Load More Button Text Font Size"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:2300
+msgid "Load More Button Border Width"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:2306
+msgid "Load More Button Border Style"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:2318
+msgid "Load More Button Border Color"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:2324
+msgid "Load More Button Border Radius"
+msgstr ""
+
+#: ../views/admin/view_themes_ytwd_edit.php:2376 ..
+#: /views/admin/view_youtube_ytwd_edit.php:140
+msgid "Published:"
+msgstr ""
+
+#: ../views/admin/view_uninstall_ytwd.php:11
+msgid "support team"
+msgstr ""
+
+#: ../views/admin/view_uninstall_ytwd.php:12
+msgid "Contact us"
+msgstr ""
+
+#: ../views/admin/view_uninstall_ytwd.php:14
+#, php-format
+msgid ""
+"Before uninstalling the plugin, please Contact our %s. We'll do our best to "
+"help you out with your issue. We value each and every user and value what's "
+"right for our users in everything we do.<br />\n"
+"            However, if anyway you have made a decision to uninstall the "
+"plugin, please take a minute to %s and tell what you didn't like for our "
+"plugins further improvement and development. Thank you !!!"
+msgstr ""
+
+#: ../views/admin/view_uninstall_ytwd.php:18
+msgid ""
+"Deactivating YouTube WD plugin does not remove any data that may have been "
+"created. To completely remove this plugin, you can uninstall it here."
+msgstr ""
+
+#: ../views/admin/view_uninstall_ytwd.php:21
+msgid "WARNING:"
+msgstr ""
+
+#: ../views/admin/view_uninstall_ytwd.php:22
+msgid ""
+"Once uninstalled, this can't be undone. You should use a Database Backup "
+"plugin of WordPress to back up all the data first."
+msgstr ""
+
+#: ../views/admin/view_uninstall_ytwd.php:25
+msgid "The following Database Tables will be deleted:"
+msgstr ""
+
+#: ../views/admin/view_uninstall_ytwd.php:30
+msgid "Database Tables"
+msgstr ""
+
+#: ../views/admin/view_uninstall_ytwd.php:43
+msgid "Do you really want to uninstall YouTube WD?"
+msgstr ""
+
+#: ../views/admin/view_uninstall_ytwd.php:49
+msgid "UNINSTALL"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_display.php:3
+msgid ""
+"This section allows you to create, edit and delete youtube videos, "
+"playlists, channels."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_display.php:66
+msgid "Shortcode"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_display.php:69
+msgid "PHP Function"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:19
+msgid " This section allows you to embed youtube videos, playlists, channels."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:28
+msgid "Embed YouTube video, playlist, channel"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:82
+msgid "Select Type"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:86
+msgid "Single Video"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:94
+msgid "URL or "
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:94
+msgid "Search by Titile"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:110
+msgid "Search by Title"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:122 ..
+#: /views/admin/view_youtube_ytwd_edit.php:130
+msgid "Channel ID"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:127
+msgid "Identify By"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:129
+msgid "Username"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:132
+msgid "YouTube ID"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:179
+msgid "Set the width of the player, you can use pixels or percents."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:189
+msgid "Enable auto height."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:189
+msgid "Auto Height"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:195
+msgid "Provide the height of YouTube player in pixels."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:201
+msgid ""
+"Choose the alignment of your YouTube player, which can be set to Left, "
+"Center or Right."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:201
+msgid "Player Alignment"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:215
+msgid ""
+"Switch on this parameter to hide the control bar after the video starts "
+"playing. It will appear again if users mouse over the video. Note that this "
+"option only affects fullscreen playback only."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:215
+msgid "Enable Autohide"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:227
+msgid ""
+"Switch this option on to start the main video automatically, when the player "
+"loads on your WordPress page or post."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:227
+msgid "Enable Autoplay"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:238
+msgid ""
+"You can specify the color of player’s progress bar with this setting. Valid "
+"values for this parameter are red and white."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:238
+msgid "Progress Bar Color"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:242
+msgid "Red"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:243
+msgid "White"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:249
+msgid ""
+"This setting lets you show or hide control buttons of YouTube player on your "
+"video. This includes the progress bar, play, volume, captions, settings and "
+"fullscreen buttons, as well as YouTube logo and the timer."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:249
+msgid "Enable Controls"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:260
+msgid ""
+"Use this setting to enable or disable fullscreen button on your YouTube "
+"player."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:260
+msgid "Allow Fullscreen"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:271
+msgid ""
+"With this option you can configure the video to play on repeat. It will "
+"start over after the video is done playing."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:271
+msgid "Enable Looping"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:282
+msgid ""
+"Enabling this setting lets you show related videos after the playback of "
+"initial video is finished."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:282
+msgid "Show Relative Videos"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:293
+msgid ""
+"When this parameter is disabled, the title and author of the main video, as "
+"well as share button will not be displayed on the player."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:293
+msgid "Show Video Info"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:303
+msgid "Skin"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:306
+msgid "Dark"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:307
+msgid "Light"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:313
+msgid ""
+"Switch this option on in case you do not want the player to respond to "
+"keyboard controls, such as spacebar (play/pause), up/down arrows (volume "
+"control), etc."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:313
+msgid "Disable Keyboard"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:324
+msgid ""
+"This setting lets you enable or disable YouTube logo among control buttons "
+"of the player."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:324
+msgid "Show YouTube Icon"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:335
+msgid ""
+"You can switch annotations of the main video on or off with this setting."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:335
+msgid "Show Annotations"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:347
+msgid ""
+"When this option is turned on, the player detects the language of your "
+"WordPress site and displays its controls in the same language. The site "
+"language can be changed from WordPress Settings > General page."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:347
+msgid "Enable Localization"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:359
+msgid ""
+"If this parameter is enabled, the YouTube player published on your website "
+"will have closed captions displayed by default."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:359
+msgid "Show Closed Captions"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:371
+msgid ""
+"This setting lets you configure the videos will play without entering "
+"fullscreen mode on iOS devices."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:371
+msgid "Enable iOS Playback"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:382
+msgid "Enable this option to add extra security measure to your YouTube embed."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:382
+msgid "Add Origin"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:393
+msgid ""
+"Use Opaque for Wmode parameter to have higher performance on your YouTube "
+"embed. Mark Transparent to switch it off."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:393
+msgid "Wmode"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:397
+msgid "Opaque"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:399
+msgid "Transparent"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:404
+msgid ""
+"Select the default volume of the player, which will be set to the video when "
+"it is first loaded. The user is able to control the volume afterwards."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:404
+msgid "Initial Volume"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:412
+msgid ""
+"Choose the default quality for the main video. The user is able to change "
+"the quality of it during playback."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:412
+msgid "Video Quality"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:426
+msgid ""
+"Set the timestamp from the video and let users to start watching it from "
+"that particular moment. You can define hours, minutes and seconds."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:426
+msgid "Start Video at"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:438
+msgid ""
+"Define the timestamp from the video, when the video will end its playback. "
+"You can set hours, minutes and seconds."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:438
+msgid "End Video at"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:457
+msgid ""
+"Important. API key is required for YouTube channels and playlists galleries "
+"to work."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:474
+msgid "Show gallery."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:474
+msgid "Show Gallery"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:484
+msgid "Choose the display type of your playlist/channel gallery. "
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:484 ..
+#: /views/admin/view_youtube_ytwd_edit.php:534
+msgid "Gallery View Type"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:496
+msgid ""
+"Set the maximum number of columns, which will be used for displaying your "
+"YouTube gallery thumbnails in Thumbnails View. "
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:496
+msgid "Max. Number of Columns"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:503
+msgid ""
+"Set the maximum number of items, which will be used for displaying your "
+"YouTube carousel in Carousel View. "
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:503
+msgid "Carousel Items Count"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:509
+msgid ""
+"Select the position of your YouTube video gallery. It can be set to display "
+"above or below the main video of your YouTube channel or playlist."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:509
+msgid "Gallery Position"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:521
+msgid ""
+"Specify the custom width (in pixels) of your YouTube gallery thumbnails. "
+"Maximum recommended value of this option is 1280 pixels."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:521
+msgid "Thumbnails Min Width"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:524
+msgid "Maximum recommended value of this option is 1280 pixels"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:528
+msgid ""
+"Set the number of videos which will be displayed on one page of YouTube "
+"video gallery."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:528
+msgid "Items Count Per Page"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:534
+msgid ""
+"This setting indicates the pagination type your YouTube video gallery will "
+"use."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:540
+msgid "Load More Button"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:543
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:547
+msgid ""
+"You can provide the text for Previous button with this setting. In case you "
+"wish to only have arrows, leave the option value blank."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:547
+msgid "Pagination Prev. Button Text"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:553
+msgid ""
+"Similarly, this option sets the text for Next button with this setting. If "
+"you need to only have arrows for pagination, leave the option value blank."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:553
+msgid "Pagination Next Button Text"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:559
+msgid ""
+" Choose the parameter based on which your YouTube videos will be ordered in "
+"your gallery."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:559
+msgid "Order By"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:571
+msgid "Specify the type of ordering based on Order By parameter."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:571
+msgid "Order Direction"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:574
+msgid "Asc"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:576
+msgid "Desc"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:580
+msgid ""
+" Enable this option to have a searchbox placed on your YouTube video gallery."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:580
+msgid "Show Searchbox"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:589
+msgid "Select a display option for playing videos from your YouTube gallery."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:589
+msgid "Gallery Video Display Mode"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:592
+msgid "Iframe"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:594
+msgid "Popup"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:598
+msgid "Youtube"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:602
+msgid ""
+"This setting lets you enable or disable additional information from your  "
+"videos. It will be added under each video thumbnail."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:602
+msgid "Show Additional Info"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:619
+msgid ""
+"This setting lets you enable or disable single line titles for gallery items."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:619
+msgid "Single Line Title"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:625
+msgid "For thumbnail and carousel"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:629
+msgid ""
+"This parameter indicates the maximum number of characters, which will be "
+"used for creating an excerpt from YouTube video description."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:629
+msgid "Description Max Length"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:635
+msgid ""
+"Select one of the following effects to load gallery videos with. They will "
+"be triggered upon scrolling the page down."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:635
+msgid "Gallery Loading Effects"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:657
+msgid ""
+"This setting lets you choose the theme from YouTube WD themes, which is "
+"going to be used on current YouTube entry. The default theme is pre-selected."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:657
+msgid "Select Theme"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:670
+msgid ""
+"With this option you can enable or disable the following attributes from the "
+"embedded YouTube video."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:670
+msgid "Show Main Video Info"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:691
+msgid ""
+"Indicates the initial number of displayed comments under your YouTube WD "
+"entry."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:691
+msgid "Comments Count Per Page"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:694
+msgid "Max count is 50."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:700
+msgid ""
+" If activated, this setting will place a social sharing block under your "
+"YouTube entry."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:700
+msgid "Enable Share Buttons"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:709
+msgid ""
+"In case this option is enabled, the main description and published date of "
+"your YouTube video will appear along when you add it into a page or post."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:709
+msgid "Show Main Video Info by default"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:719
+msgid ""
+"Enabling this setting lets you redirect users to the link of the YouTube "
+"page of your video upon clicking on its title."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:719
+msgid "Show Main Video Title as Youtube Link"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:730
+msgid ""
+"With this option you can enable or disable the following attributes from the "
+"embedded YouTube channel or playlist."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:730
+#, php-format
+msgid "Show %s Info"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:754
+msgid ""
+"Enabling this setting lets you redirect users to the link of the YouTube "
+"channel page upon clicking on its title."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:754
+msgid "Show Channel Title as Youtube Link"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:764
+msgid ""
+"Enabling this setting lets you redirect users to the link of the YouTube "
+"playlist page upon clicking on its title."
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:764
+msgid "Show Playlist Title as Youtube Link"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:779
+msgid "Reload"
+msgstr ""
+
+#: ../views/admin/view_youtube_ytwd_edit.php:780
+msgid "Reload Preview to See Changes"
+msgstr ""
+
+#: ../views/admin/analytics/view_analytics_blocked_ytwd.php:8 ..
+#: /views/admin/analytics/view_analytics_plays_vs_impressions_ytwd.php:25
+#: /views/admin/analytics/view_analytics_top_played_ytwd.php:8
+#: /views/admin/analytics/view_analytics_viewing_activity_ytwd.php:9
+msgid "Impressions"
+msgstr ""
+
+#: ../views/admin/analytics/view_analytics_blocked_ytwd.php:9 ..
+#: /views/admin/analytics/view_analytics_deleted_ytwd.php:26
+#: /views/admin/analytics/view_analytics_plays_vs_impressions_ytwd.php:19
+#: /views/admin/analytics/view_analytics_top_played_ytwd.php:9
+#: /views/admin/analytics/view_analytics_viewing_activity_ytwd.php:10
+msgid "Plays"
+msgstr ""
+
+#: ../views/admin/analytics/view_analytics_blocked_ytwd.php:10 ..
+#: /views/admin/analytics/view_analytics_top_played_ytwd.php:10
+msgid "YouTube Plays"
+msgstr ""
+
+#: ../views/admin/analytics/view_analytics_blocked_ytwd.php:11 ..
+#: /views/admin/analytics/view_analytics_top_played_ytwd.php:11
+msgid "Your Contribution"
+msgstr ""
+
+#: ../views/admin/analytics/view_analytics_blocked_ytwd.php:14 ..
+#: /views/admin/analytics/view_analytics_top_played_ytwd.php:13
+msgid "Play"
+msgstr ""
+
+#: ../views/admin/analytics/view_analytics_blocked_ytwd.php:51 ..
+#: /views/admin/analytics/view_analytics_deleted_ytwd.php:50
+#: /views/admin/analytics/view_analytics_top_played_ytwd.php:47
+#: /views/admin/analytics/view_analytics_viewing_activity_ytwd.php:39
+msgid "Total"
+msgstr ""
+
+#: ../views/admin/analytics/view_analytics_viewing_activity_ytwd.php:11
+msgid "Ratio"
+msgstr ""
+
+#: ../views/admin/analytics/view_analytics_ytwd.php:4
+msgid " This section allows you to manage reports."
+msgstr ""
+
+#: ../views/admin/analytics/view_analytics_ytwd.php:16
+msgid "Important. API key is required for reports to work."
+msgstr ""

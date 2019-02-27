@@ -1,0 +1,1843 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BetterWeather v1.5.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-12-13 14:19:13+0000\n"
+"Last-Translator: BetterStudio <info@betterstudio.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: better-weather.php:178
+#: better-weather.php:186
+#@ better-studio
+msgid "API Key"
+msgstr ""
+
+#: better-weather.php:188
+#@ better-weather
+msgid "Enter your own API Key for Forecast.io"
+msgstr ""
+
+#: better-weather.php:194
+#@ better-studio
+msgid "How to get your own API key!?"
+msgstr ""
+
+#: better-weather.php:197
+#@ better-studio
+msgid "Better Weather uses weather API of <a target=\"_blank\" href=\"http://forecast.io/\">Forecast.io</a>. For showing forecast you should get a free API key with a simple sign up to the site."
+msgstr ""
+
+#: better-weather.php:199
+#@ better-studio
+msgid "Go to <a href=\"http://goo.gl/d1d6Ji\" target=\"_blank\">https://developer.forecast.io/register</a> and Sing up"
+msgstr ""
+
+#: better-weather.php:213
+#@ better-studio
+msgid "Translations"
+msgstr ""
+
+#: better-weather.php:220
+#@ better-studio
+msgid "Weather Forecast Translations"
+msgstr ""
+
+#: better-weather.php:225
+#@ better-studio
+msgid "Clear Text"
+msgstr ""
+
+#: better-weather.php:231
+#@ better-studio
+msgid "Rain Text"
+msgstr ""
+
+#: better-weather.php:237
+#@ better-studio
+msgid "Light Rain Text"
+msgstr ""
+
+#: better-weather.php:243
+#@ better-studio
+msgid "Drizzle Text"
+msgstr ""
+
+#: better-weather.php:249
+#@ better-studio
+msgid "Light Rain And Windy Text"
+msgstr ""
+
+#: better-weather.php:255
+#@ better-studio
+msgid "Cloudy Text"
+msgstr ""
+
+#: better-weather.php:261
+#@ better-studio
+msgid "Mostly Cloudy Text"
+msgstr ""
+
+#: better-weather.php:267
+#@ better-studio
+msgid "Partly Cloudy Text"
+msgstr ""
+
+#: better-weather.php:273
+#@ better-studio
+msgid "Snow Text"
+msgstr ""
+
+#: better-weather.php:279
+#@ better-studio
+msgid "Light Snow Text"
+msgstr ""
+
+#: better-weather.php:285
+#@ better-studio
+msgid "Snow and Breezy Text"
+msgstr ""
+
+#: better-weather.php:291
+#@ better-studio
+msgid "Snow and Windy Text"
+msgstr ""
+
+#: better-weather.php:297
+#@ better-studio
+msgid "Sleet Text"
+msgstr ""
+
+#: better-weather.php:303
+#@ better-studio
+msgid "Wind Text"
+msgstr ""
+
+#: better-weather.php:309
+#@ better-studio
+msgid "Foggy Text"
+msgstr ""
+
+#: better-weather.php:315
+#@ better-studio
+msgid "Thunderstorm Text"
+msgstr ""
+
+#: better-weather.php:321
+#@ better-studio
+msgid "Overcast Text"
+msgstr ""
+
+#: better-weather.php:327
+#@ better-studio
+msgid "Breezy and Partly Cloudy Text"
+msgstr ""
+
+#: better-weather.php:333
+#@ better-studio
+msgid "Humid and Mostly Cloudy Text"
+msgstr ""
+
+#: better-weather.php:339
+#@ better-studio
+msgid "Windy And Most Cloudy Text"
+msgstr ""
+
+#: better-weather.php:345
+#@ better-studio
+msgid "Breezy and Overcast Text"
+msgstr ""
+
+#: better-weather.php:353
+#@ better-studio
+msgid "Months Name Translations"
+msgstr ""
+
+#: better-weather.php:358
+#@ better-studio
+msgid "January Text"
+msgstr ""
+
+#: better-weather.php:364
+#@ better-studio
+msgid "February Text"
+msgstr ""
+
+#: better-weather.php:370
+#@ better-studio
+msgid "March Text"
+msgstr ""
+
+#: better-weather.php:376
+#@ better-studio
+msgid "April Text"
+msgstr ""
+
+#: better-weather.php:382
+#@ better-studio
+msgid "May Text"
+msgstr ""
+
+#: better-weather.php:388
+#@ better-studio
+msgid "June Text"
+msgstr ""
+
+#: better-weather.php:394
+#@ better-studio
+msgid "July Text"
+msgstr ""
+
+#: better-weather.php:400
+#@ better-studio
+msgid "August Text"
+msgstr ""
+
+#: better-weather.php:406
+#@ better-studio
+msgid "September Text"
+msgstr ""
+
+#: better-weather.php:412
+#@ better-studio
+msgid "October Text"
+msgstr ""
+
+#: better-weather.php:418
+#@ better-studio
+msgid "November Text"
+msgstr ""
+
+#: better-weather.php:424
+#@ better-studio
+msgid "December Text"
+msgstr ""
+
+#: better-weather.php:431
+#@ better-studio
+msgid "Days Name Translations"
+msgstr ""
+
+#: better-weather.php:436
+#@ better-studio
+msgid "Sat Text"
+msgstr ""
+
+#: better-weather.php:442
+#@ better-studio
+msgid "Sun Text"
+msgstr ""
+
+#: better-weather.php:448
+#@ better-studio
+msgid "Mon Text"
+msgstr ""
+
+#: better-weather.php:454
+#@ better-studio
+msgid "Tue Text"
+msgstr ""
+
+#: better-weather.php:460
+#@ better-studio
+msgid "Wed Text"
+msgstr ""
+
+#: better-weather.php:466
+#@ better-studio
+msgid "Thu Text"
+msgstr ""
+
+#: better-weather.php:472
+#@ better-studio
+msgid "Fri Text"
+msgstr ""
+
+#: better-weather.php:482
+#@ better-studio
+msgid "Caching Options"
+msgstr ""
+
+#: better-weather.php:488
+#@ better-studio
+msgid "Maximum Lifetime of Cache"
+msgstr ""
+
+#: better-weather.php:493
+#@ better-studio
+msgid "30 Minutes"
+msgstr ""
+
+#: better-weather.php:494
+#@ better-studio
+msgid "1 Hour"
+msgstr ""
+
+#: better-weather.php:495
+#@ better-studio
+msgid "1 Hour and 30 Minutes"
+msgstr ""
+
+#: better-weather.php:496
+#@ better-studio
+msgid "2 Hour"
+msgstr ""
+
+#: better-weather.php:497
+#@ better-studio
+msgid "2 Hour and 30 Minutes"
+msgstr ""
+
+#: better-weather.php:498
+#@ better-studio
+msgid "3 Hour"
+msgstr ""
+
+#: better-weather.php:502
+#@ better-studio
+msgid "Clear Data Base Saved Caches"
+msgstr ""
+
+#: better-weather.php:507
+#@ better-studio
+msgid "Are you sure for deleting all caches?"
+msgstr ""
+
+#: better-weather.php:508
+#@ better-studio
+msgid "This allows you to clear all caches that are saved in data base."
+msgstr ""
+
+#: better-weather.php:512
+#@ better-studio
+msgid "Backup & Restore"
+msgstr ""
+
+#: better-weather.php:519
+#@ better-studio
+msgid "Backup / Export"
+msgstr ""
+
+#: better-weather.php:524
+#@ better-studio
+msgid "This allows you to create a backup of your options and settings. Please note, it will not backup anything else."
+msgstr ""
+
+#: better-weather.php:527
+#@ better-studio
+msgid "Restore / Import"
+msgstr ""
+
+#: better-weather.php:530
+#@ better-studio
+msgid "<strong>It will override your current settings!</strong> Please make sure to select a valid backup file."
+msgstr ""
+
+#: better-weather.php:536
+#: better-weather.php:537
+#: better-weather.php:538
+#: includes/widgets/class-better-weather-widget.php:131
+#@ better-studio
+msgid "Better Weather"
+msgstr ""
+
+#: better-weather.php:540
+#: includes/shortcodes/class-better-weather-shortcode.php:12
+#@ better-studio
+msgid "BetterWeather"
+msgstr ""
+
+#: better-weather.php:545
+#@ better-studio
+msgctxt "Panel title"
+msgid "Better Weather Options"
+msgstr ""
+
+#: better-weather.php:599
+#: better-weather.php:605
+#: better-weather.php:611
+#: better-weather.php:617
+#@ better-studio
+msgid "NA"
+msgstr ""
+
+#: better-weather.php:697
+#@ better-studio
+msgid "Better Weather Error: No API Key provided! Obtain API Key from https://developers.forecast.io/"
+msgstr ""
+
+#: better-weather.php:740
+#@ better-studio
+msgid "BetterWeather Error: No any data received from Forecast.io!."
+msgstr ""
+
+#: better-weather.php:751
+#@ better-studio
+msgid "Better Weather Error: Provided API key is incorrect!."
+msgstr ""
+
+#: better-weather.php:752
+#@ better-studio
+msgid "no data"
+msgstr ""
+
+#: better-weather.php:779
+#@ better-studio
+msgid "Data retrieved successfully."
+msgstr ""
+
+#: better-weather.php:802
+#@ better-studio
+msgid "BetterWeather Widget"
+msgstr ""
+
+#: better-weather.php:807
+#: better-weather.php:937
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-about-shortcode.php:103
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-code-shortcode.php:86
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:92
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-flickr-shortcode.php:197
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:103
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:190
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:248
+#@ better-studio
+msgid "Content"
+msgstr ""
+
+#: better-weather.php:812
+#: includes/widgets/class-better-weather-inline-widget.php:24
+#: includes/widgets/class-better-weather-widget.php:24
+#@ better-studio
+msgid "Location"
+msgstr ""
+
+#: better-weather.php:816
+#: better-weather.php:947
+#@ better-studio
+msgid "Enter location ( latitude,longitude ) for showing forecast."
+msgstr ""
+
+#: better-weather.php:816
+#: better-weather.php:947
+#@ better-studio
+msgid "How to find location values!?"
+msgstr ""
+
+#: better-weather.php:820
+#@ better-studio
+msgid "Location Custom Name"
+msgstr ""
+
+#: better-weather.php:827
+#: includes/widgets/class-better-weather-widget.php:39
+#@ better-studio
+msgid "Show Location Name?"
+msgstr ""
+
+#: better-weather.php:830
+#: better-weather.php:839
+#: better-weather.php:858
+#: better-weather.php:912
+#: better-weather.php:921
+#: better-weather.php:991
+#: better-weather.php:1000
+#@ better-studio
+msgid "Yes"
+msgstr ""
+
+#: better-weather.php:831
+#: better-weather.php:840
+#: better-weather.php:859
+#: better-weather.php:911
+#: better-weather.php:920
+#: better-weather.php:990
+#: better-weather.php:999
+#@ better-studio
+msgid "No"
+msgstr ""
+
+#: better-weather.php:836
+#: includes/widgets/class-better-weather-widget.php:45
+#@ better-studio
+msgid "Show Date?"
+msgstr ""
+
+#: better-weather.php:845
+#: includes/widgets/class-better-weather-widget.php:51
+#@ better-studio
+msgid "Widget Style"
+msgstr ""
+
+#: better-weather.php:849
+#: includes/widgets/class-better-weather-widget.php:56
+#@ better-studio
+msgid "Modern Style"
+msgstr ""
+
+#: better-weather.php:850
+#: includes/widgets/class-better-weather-widget.php:57
+#@ better-studio
+msgid "Normal Style"
+msgstr ""
+
+#: better-weather.php:855
+#@ better-studio
+msgid "Show next 4 days forecast!?"
+msgstr ""
+
+#: better-weather.php:864
+#: includes/widgets/class-better-weather-widget.php:68
+#@ better-studio
+msgid "Background Style"
+msgstr ""
+
+#: better-weather.php:868
+#: includes/widgets/class-better-weather-widget.php:73
+#@ better-studio
+msgid "Natural Photo"
+msgstr ""
+
+#: better-weather.php:869
+#: includes/widgets/class-better-weather-widget.php:74
+#@ better-studio
+msgid "Static Color"
+msgstr ""
+
+#: better-weather.php:876
+#: includes/widgets/class-better-weather-widget.php:79
+#@ better-studio
+msgid "Background Color"
+msgstr ""
+
+#: better-weather.php:882
+#: includes/widgets/class-better-weather-inline-widget.php:44
+#: includes/widgets/class-better-weather-widget.php:85
+#@ better-studio
+msgid "Icons Style"
+msgstr ""
+
+#: better-weather.php:885
+#: better-weather.php:964
+#@ better-studio
+msgid "Animated Icons"
+msgstr ""
+
+#: better-weather.php:886
+#: better-weather.php:965
+#@ better-studio
+msgid "Static Icons"
+msgstr ""
+
+#: better-weather.php:893
+#: includes/widgets/class-better-weather-inline-widget.php:55
+#: includes/widgets/class-better-weather-widget.php:96
+#@ better-studio
+msgid "Font Color"
+msgstr ""
+
+#: better-weather.php:899
+#: better-weather.php:978
+#: includes/widgets/class-better-weather-inline-widget.php:61
+#: includes/widgets/class-better-weather-widget.php:102
+#@ better-studio
+msgid "Temperature Unit"
+msgstr ""
+
+#: better-weather.php:902
+#: better-weather.php:981
+#: includes/widgets/class-better-weather-inline-widget.php:66
+#: includes/widgets/class-better-weather-widget.php:107
+#@ better-studio
+msgid "Celsius"
+msgstr ""
+
+#: better-weather.php:903
+#: better-weather.php:982
+#: includes/widgets/class-better-weather-inline-widget.php:67
+#: includes/widgets/class-better-weather-widget.php:108
+#@ better-studio
+msgid "Fahrenheit"
+msgstr ""
+
+#: better-weather.php:908
+#: better-weather.php:987
+#@ better-studio
+msgid "Show Temperature Unit In Widget!?"
+msgstr ""
+
+#: better-weather.php:917
+#: better-weather.php:996
+#@ better-studio
+msgid "Auto detect user location via IP!?"
+msgstr ""
+
+#: better-weather.php:923
+#@ better-studio
+msgid "Before using this you must read <a target=\"_blank\" href=\"http://better-studio.net/plugins/better-weather/wp/#requests-note\">this note</a>."
+msgstr ""
+
+#: better-weather.php:932
+#@ better-studio
+msgid "BetterWeather Inline"
+msgstr ""
+
+#: better-weather.php:944
+#@ better-studio
+msgid "Location:"
+msgstr ""
+
+#: better-weather.php:951
+#@ better-studio
+msgid "Inline Size:"
+msgstr ""
+
+#: better-weather.php:954
+#@ better-studio
+msgid "Large"
+msgstr ""
+
+#: better-weather.php:955
+#@ better-studio
+msgid "medium"
+msgstr ""
+
+#: better-weather.php:956
+#@ better-studio
+msgid "small"
+msgstr ""
+
+#: better-weather.php:961
+#@ better-studio
+msgid "Icons Style:"
+msgstr ""
+
+#: better-weather.php:972
+#@ better-studio
+msgid "Font Color:"
+msgstr ""
+
+#: better-weather.php:1002
+#@ better-studio
+msgid "Please note Forecast.io free accounts API calls per day is just 1000 and with enabling autodetect location you must do some pay to Forecast.io for calls over 1000!"
+msgstr ""
+
+#: better-weather.php:1039
+#@ better-studio
+msgid "All Caches was cleaned."
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:134
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:135
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:136
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:193
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:194
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:195
+#@ better-studio
+msgid "<strong>Better</strong>Studio"
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:498
+#@ better-studio
+msgid "OK!"
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:507
+#@ better-studio
+msgid "ERROR!"
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:512
+#@ better-studio
+msgid "Pre-defined Skin and Styles updated."
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:614
+#@ better-studio
+msgid "Options Reset."
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:618
+#@ better-studio
+msgid "Options reset to defaults."
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:625
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:629
+#@ better-studio
+msgid "An error occurred while resetting options."
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:651
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:655
+#@ better-studio
+msgid "Imported data is not correct or was corrupted."
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:669
+#: includes/libs/better-framework/admin-panel/class-better-admin-panel.php:670
+#@ better-studio
+msgid "Theme Options successfully imported."
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/templates/default/main.php:12
+#: includes/libs/better-framework/admin-panel/templates/default/main.php:39
+#@ better-studio
+msgid "Save Settings"
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/templates/default/main.php:35
+#@ better-studio
+msgid "Reset Setting"
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/templates/default/main.php:48
+#@ better-studio
+msgid "An Error Occurred!"
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/templates/typography.php:69
+#@ better-studio
+msgid "This Is a Test Title Text!"
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/templates/typography.php:76
+#@ better-studio
+msgid "Grumpy wizards make toxic brew for the evil Queen and Jack. One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. "
+msgstr ""
+
+#: includes/libs/better-framework/admin-panel/templates/typography.php:84
+#@ better-studio
+msgid ""
+"a b c d e f g h i j k l m n o p q r s t u v w x y z<br>\n"
+"                                A B C D E F G H I J K L M N O P Q R S T U V W X Y Z<br>\n"
+"                                0123456789 (!@#$%&.,?:;)"
+msgstr ""
+
+#: includes/libs/better-framework/class-better-framework.php:637
+#@ better-studio
+msgid "Show Advanced Fields?"
+msgstr ""
+
+#: includes/libs/better-framework/class-better-framework.php:638
+#@ better-studio
+msgid "Hide Advanced Fields?"
+msgstr ""
+
+#: includes/libs/better-framework/class-better-framework.php:639
+#@ better-studio
+msgid "Do you really wish to override your current settings?"
+msgstr ""
+
+#: includes/libs/better-framework/class-better-framework.php:739
+#: includes/libs/better-framework/class-better-framework.php:752
+#@ better-studio
+msgid "Security Error!"
+msgstr ""
+
+#: includes/libs/better-framework/class-better-framework.php:783
+#@ better-studio
+msgid "An error occurred while doing action."
+msgstr ""
+
+#: includes/libs/better-framework/core/class-bf-posts.php:102
+#@ better-studio
+msgid "Pages:"
+msgstr ""
+
+#: includes/libs/better-framework/core/class-bf-posts.php:350
+#@ better-studio
+msgid "Next Post"
+msgstr ""
+
+#: includes/libs/better-framework/core/class-bf-posts.php:416
+#@ better-studio
+msgid "Previous Post"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/class-bf-google-fonts-helper.php:4984
+#@ better-studio
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/background_image.php:12
+#: includes/libs/better-framework/core/field-generator/fields/background_image.php:13
+#: includes/libs/better-framework/core/field-generator/fields/background_image.php:25
+#: includes/libs/better-framework/core/field-generator/fields/image_upload.php:15
+#: includes/libs/better-framework/core/field-generator/fields/media.php:8
+#: includes/libs/better-framework/core/field-generator/fields/media.php:9
+#: includes/libs/better-framework/core/field-generator/fields/media.php:12
+#: includes/libs/better-framework/core/field-generator/fields/media_image.php:10
+#: includes/libs/better-framework/core/field-generator/fields/media_image.php:11
+#: includes/libs/better-framework/core/field-generator/fields/media_image.php:13
+#: includes/libs/better-framework/vc-extend/fields/background_image.php:12
+#: includes/libs/better-framework/vc-extend/fields/background_image.php:13
+#: includes/libs/better-framework/vc-extend/fields/background_image.php:25
+#@ better-studio
+msgid "Upload"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/background_image.php:35
+#: includes/libs/better-framework/core/field-generator/fields/media_image.php:14
+#: includes/libs/better-framework/vc-extend/fields/background_image.php:35
+#@ better-studio
+msgid "Remove"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/background_image.php:49
+#: includes/libs/better-framework/vc-extend/fields/background_image.php:49
+#@ better-studio
+msgid "Repeat Horizontal and Vertical - Pattern"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/background_image.php:50
+#: includes/libs/better-framework/vc-extend/fields/background_image.php:50
+#@ better-studio
+msgid "Fully Cover Background - Photo"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/background_image.php:51
+#: includes/libs/better-framework/vc-extend/fields/background_image.php:51
+#@ better-studio
+msgid "Repeat Horizontal"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/background_image.php:52
+#: includes/libs/better-framework/vc-extend/fields/background_image.php:52
+#@ better-studio
+msgid "Repeat Vertical"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/background_image.php:53
+#: includes/libs/better-framework/vc-extend/fields/background_image.php:53
+#@ better-studio
+msgid "No Repeat"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/border.php:24
+#@ better-studio
+msgid "Top Border:"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/border.php:35
+#@ better-studio
+msgid "Right Border:"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/border.php:46
+#@ better-studio
+msgid "Bottom Border:"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/border.php:57
+#@ better-studio
+msgid "Left Border:"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/export.php:19
+#@ better-studio
+msgid "Download Backup"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/icon_select.php:14
+#: includes/libs/better-framework/core/field-generator/fields/icon_select.php:24
+#@ better-studio
+msgid "Chose an Icon"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/icon_select.php:25
+#@ better-studio
+msgid "No Icon"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/icon_select.php:42
+#@ better-studio
+msgid "All: "
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/icon_select.php:42
+#@ better-studio
+msgid "(439)"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/icon_select.php:56
+#@ better-studio
+msgid "Search: "
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/image_select.php:11
+#@ better-studio
+msgid "chose one..."
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/partial-border.php:10
+#@ better-studio
+msgid "Width:"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/partial-border.php:21
+#@ better-studio
+msgid "Dotted"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/partial-border.php:22
+#@ better-studio
+msgid "Dashed"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/partial-border.php:23
+#@ better-studio
+msgid "Solid"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/partial-border.php:24
+#@ better-studio
+msgid "Double"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/partial-border.php:25
+#@ better-studio
+msgid "Groove"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/partial-border.php:26
+#@ better-studio
+msgid "Ridge"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/partial-border.php:27
+#@ better-studio
+msgid "Inset"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/partial-border.php:28
+#@ better-studio
+msgid "Outset"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/repeater.php:32
+#@ better-studio
+msgid "Add"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/repeater.php:38
+#@ better-studio
+msgid "Delete"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/repeater.php:44
+#@ better-studio
+msgid "Item"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/typography.php:79
+#@ better-studio
+msgid "Text Align:"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/typography.php:113
+#@ better-studio
+msgid "Text Transform:"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/typography.php:149
+#@ better-studio
+msgid "Size:"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/fields/typography.php:170
+#@ better-studio
+msgid "Height:"
+msgstr ""
+
+#: includes/libs/better-framework/core/field-generator/templates/typography.php:55
+#@ better-studio
+msgid "ABCDEF...123"
+msgstr ""
+
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:141
+#@ better-studio
+msgid "Browse:"
+msgstr ""
+
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:142
+#@ better-studio
+msgid "Home"
+msgstr ""
+
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:143
+#@ better-studio
+msgid "404 Not Found"
+msgstr ""
+
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:144
+#@ better-studio
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query. The HTML entities are opening and closing curly quotes.
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:146
+#, php-format
+#@ better-studio
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:148
+#, php-format
+#@ better-studio
+msgid "Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:150
+#, php-format
+#@ better-studio
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:152
+#, php-format
+#@ better-studio
+msgid "Week %s"
+msgstr ""
+
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:698
+#@ better-studio
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:717
+#@ better-studio
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:735
+#@ better-studio
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:752
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:782
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:810
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:838
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:1030
+#@ better-studio
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:753
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:811
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:1034
+#@ better-studio
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:754
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:1038
+#@ better-studio
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: includes/libs/better-framework/libs/class-bf-breadcrumb.php:783
+#@ better-studio
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-about-shortcode.php:14
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-about-shortcode.php:22
+#@ better-studio
+msgid "About"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-about-shortcode.php:16
+#@ better-studio
+msgid "BetterStudio \"About\" Site Add-on"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-about-shortcode.php:109
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-flickr-shortcode.php:202
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:197
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:254
+#@ better-studio
+msgid "Section Title"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-about-shortcode.php:116
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-code-shortcode.php:100
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:106
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-flickr-shortcode.php:208
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:115
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:204
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:260
+#@ better-studio
+msgid "Show Title?"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-about-shortcode.php:124
+#@ better-studio
+msgid "Logo Text"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-about-shortcode.php:132
+#@ better-studio
+msgid "Logo Image"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-about-shortcode.php:135
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-about-shortcode.php:137
+#: includes/libs/better-framework/widget/widgets/class-bf-about-widget.php:38
+#: includes/libs/better-framework/widget/widgets/class-bf-about-widget.php:40
+#@ better-studio
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-about-shortcode.php:136
+#: includes/libs/better-framework/widget/widgets/class-bf-about-widget.php:39
+#@ better-studio
+msgid "Remove Logo"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-about-shortcode.php:138
+#: includes/libs/better-framework/widget/widgets/class-bf-about-widget.php:41
+#@ better-studio
+msgid "Select As Logo"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-about-shortcode.php:144
+#@ better-studio
+msgid "About Text"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-code-shortcode.php:14
+#@ better-studio
+msgid "Advertisement Code"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-code-shortcode.php:16
+#@ better-studio
+msgid "BetterStudio Advertisements Code"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-code-shortcode.php:93
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:99
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:109
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:19
+#: includes/widgets/class-better-weather-inline-widget.php:17
+#: includes/widgets/class-better-weather-widget.php:17
+#@ better-studio
+msgid "Title"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-code-shortcode.php:108
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-code-widget.php:26
+#@ better-studio
+msgid "Code"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-code-shortcode.php:111
+#@ better-studio
+msgid "You can use shortcodes."
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:14
+#@ better-studio
+msgid "Advertisement Image"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:16
+#@ better-studio
+msgid "BetterStudio Advertisements Image"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:114
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:26
+#@ better-studio
+msgid "Image"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:117
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:119
+#@ better-studio
+msgid "Upload Advertisement Image"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:118
+#@ better-studio
+msgid "Remove Advertisement Image"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:120
+#@ better-studio
+msgid "Select As Advertisement Image"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:126
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:36
+#@ better-studio
+msgid "Caption (Optional)"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:134
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:43
+#@ better-studio
+msgid "Link"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:142
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:50
+#@ better-studio
+msgid "Where To Open The link?"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:146
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:55
+#@ better-studio
+msgid "_blank - in new window or tab"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:147
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:56
+#@ better-studio
+msgid "_self - in the same frame as it was clicked"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:148
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:57
+#@ better-studio
+msgid "_parent - in the parent frame"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-advertisement-image-shortcode.php:149
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:58
+#@ better-studio
+msgid "_top - in the full body of the window"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-flickr-shortcode.php:14
+#@ better-studio
+msgid "Flickr"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-flickr-shortcode.php:16
+#@ better-studio
+msgid "Latest photos from Flickr."
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-flickr-shortcode.php:22
+#@ better-studio
+msgid "Flickr Photos"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-flickr-shortcode.php:213
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:120
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:291
+#: includes/libs/better-framework/widget/widgets/class-bf-flickr-widget.php:16
+#: includes/libs/better-framework/widget/widgets/class-bf-likebox-widget.php:16
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:47
+#@ better-studio
+msgid "Instructions"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-flickr-shortcode.php:216
+#: includes/libs/better-framework/widget/widgets/class-bf-flickr-widget.php:19
+#@ better-studio
+msgid ""
+"<p>You need to get the user id from your Flickr account.</p>\n"
+"                <ol>\n"
+"                    <li>Attain your user id using <a href=\"http://goo.gl/pHx7LV\" target=\"_blank\">this tool</a></li>\n"
+"                    <li>Copy the user id</li>\n"
+"                    <li>Paste it in the \"Flickr ID\" input box below</li>\n"
+"                </ol>\n"
+"                "
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-flickr-shortcode.php:230
+#@ better-studio
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">Get Your ID</a>)"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-flickr-shortcode.php:237
+#@ better-studio
+msgid "Number of Photos"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-flickr-shortcode.php:244
+#@ better-studio
+msgid "Tags (comma separated, optional)"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:14
+#@ better-studio
+msgid "Like Box"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:16
+#: includes/libs/better-framework/widget/widgets/class-bf-likebox-widget.php:81
+#@ better-studio
+msgid "Display a Facebook Like Box"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:123
+#: includes/libs/better-framework/widget/widgets/class-bf-likebox-widget.php:19
+#@ better-studio
+msgid ""
+"<ol>\n"
+"    <li>Copy the link to you facebook page</li>\n"
+"    <li>Paste it in the \"Link to you Facebook page\" input box below</li>\n"
+"  </ol>\n"
+"                "
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:135
+#: includes/libs/better-framework/widget/widgets/class-bf-likebox-widget.php:35
+#@ better-studio
+msgid "Link to you Facebook page"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:141
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:210
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:266
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:26
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:22
+#@ better-studio
+msgid "Style"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:146
+#: includes/libs/better-framework/widget/widgets/class-bf-likebox-widget.php:47
+#@ better-studio
+msgid "Light Schema"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:147
+#@ better-studio
+msgid "Style Schema"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:154
+#: includes/libs/better-framework/widget/widgets/class-bf-likebox-widget.php:52
+#@ better-studio
+msgid "Show Posts?"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:161
+#: includes/libs/better-framework/widget/widgets/class-bf-likebox-widget.php:58
+#@ better-studio
+msgid "Show faces?"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:168
+#: includes/libs/better-framework/widget/widgets/class-bf-likebox-widget.php:64
+#@ better-studio
+msgid "Show Header?"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-likebox-shortcode.php:175
+#: includes/libs/better-framework/widget/widgets/class-bf-likebox-widget.php:70
+#@ better-studio
+msgid "Show Border?"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:14
+#@ better-studio
+msgid "Social Share"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:16
+#@ better-studio
+msgid "BetterStudio Social Share Add-on"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:22
+#@ better-studio
+msgid "Share"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:64
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:252
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:63
+#@ better-studio
+msgid "Facebook"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:70
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:256
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:14
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:67
+#@ better-studio
+msgid "Twitter"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:76
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:260
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:71
+#@ better-studio
+msgid "Google+"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:83
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:264
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:75
+#@ better-studio
+msgid "Pinterest"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:89
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:268
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:79
+#@ better-studio
+msgid "Linkedin"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:95
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:272
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:83
+#@ better-studio
+msgid "Tumblr"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:101
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:276
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:87
+#@ better-studio
+msgid "Email"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:218
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:33
+#@ better-studio
+msgid "Button Style"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:222
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:37
+#@ better-studio
+msgid "Icon Button Style"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:226
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:41
+#@ better-studio
+msgid "Outline Style"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:230
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:45
+#@ better-studio
+msgid "Icon Outline Style"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:238
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:52
+#@ better-studio
+msgid "Show in colored  style?"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-social-share-shortcode.php:246
+#@ better-studio
+msgid "Active and Sort Sites"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:16
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:112
+#@ better-studio
+msgid "Latest tweets widget."
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:22
+#@ better-studio
+msgid "Latest Tweets"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:125
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:134
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:150
+#@ better-studio
+msgid "ago"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:137
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:153
+#@ better-studio
+msgid "Reply"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:138
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:154
+#@ better-studio
+msgid "Retweet"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:139
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:155
+#@ better-studio
+msgid "Favorite"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:272
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:29
+#@ better-studio
+msgid "Style 1"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:276
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:33
+#@ better-studio
+msgid "Style 2"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:280
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:37
+#@ better-studio
+msgid "Style 3"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:284
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:41
+#@ better-studio
+msgid "Style 4"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:294
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:50
+#@ better-studio
+msgid ""
+"\n"
+"<p>You need to authenticate yourself to Twitter with creating an app for get access information to retrieve your tweets and display them on your page.</p><ol>\n"
+"    <li>Go to <a href=\"http://goo.gl/tyCR5W\" target=\"_blank\">https://apps.twitter.com/app/new</a> and log in, if necessary</li>\n"
+"    <li>Enter your Application Name, Description and your website address. You can leave the callback URL empty.</li>\n"
+"    <li>Submit the form by clicking the Create your Twitter Application</li>\n"
+"    <li>Go to the \"Keys and Access Token\" tab and copy the consumer key (API key) and consumer secret</li>\n"
+"    <li>Paste them in the following input boxes</li>\n"
+"    <li>Click on the \"Create my access token\" in bottom of page for creating access token and copy them</li>\n"
+"    <li>Paste them in the following input boxes</li>\n"
+"  </ol>\n"
+"                "
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:312
+#@ better-studio
+msgid "Username"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:319
+#@ better-studio
+msgid "Consumer Key"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:326
+#@ better-studio
+msgid "Consumer Secret"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:333
+#@ better-studio
+msgid "Access Secret"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:340
+#@ better-studio
+msgid "Access Token"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:347
+#@ better-studio
+msgid "Number of Tweets"
+msgstr ""
+
+#: includes/libs/better-framework/shortcode/shortcodes/class-bf-twitter-shortcode.php:354
+#@ better-studio
+msgid "Open Tweet Links in New Page"
+msgstr ""
+
+#: includes/libs/better-framework/widget/class-bf-widgets-general-fields.php:58
+#@ better-studio
+msgid "Widget Title Color"
+msgstr ""
+
+#: includes/libs/better-framework/widget/class-bf-widgets-general-fields.php:67
+#@ better-studio
+msgid "Widget Title Background Color"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-about-widget.php:16
+#: includes/libs/better-framework/widget/widgets/class-bf-flickr-widget.php:31
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:16
+#@ better-studio
+msgid "Title:"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-about-widget.php:22
+#@ better-studio
+msgid "About Site:"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-about-widget.php:28
+#@ better-studio
+msgid "Logo Text:"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-about-widget.php:34
+#@ better-studio
+msgid "Logo Image:"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-about-widget.php:48
+#@ better-studio
+msgid "BetterStudio - About"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-about-widget.php:49
+#@ better-studio
+msgid "\"About\" site widget."
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-code-widget.php:19
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:19
+#@ better-studio
+msgid "Title (Optional)"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-code-widget.php:35
+#@ better-studio
+msgid "BetterStudio - Advertisement Code"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-code-widget.php:36
+#@ better-studio
+msgid "Advertisement Code Widget"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:29
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:31
+#@ better-studio
+msgid "Upload Ad Image"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:30
+#@ better-studio
+msgid "Remove Ad Image"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:32
+#@ better-studio
+msgid "Select As Ad Image"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:67
+#@ better-studio
+msgid "BetterStudio - Advertisement Image"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-advertisement-image-widget.php:68
+#@ better-studio
+msgid "Advertisement Image Widget"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-flickr-widget.php:37
+#@ better-studio
+msgid "Flickr ID:"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-flickr-widget.php:43
+#@ better-studio
+msgid "Number of Photos:"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-flickr-widget.php:49
+#@ better-studio
+msgid "Tags (comma separated, optional):"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-flickr-widget.php:58
+#@ better-studio
+msgid "BetterStudio - Flickr"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-flickr-widget.php:59
+#@ better-studio
+msgid "Display latest photos from Flickr."
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-likebox-widget.php:29
+#@ better-studio
+msgid "Title (Optional):"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-likebox-widget.php:41
+#@ better-studio
+msgid "Color Scheme"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-likebox-widget.php:48
+#@ better-studio
+msgid "Dark Schema"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-likebox-widget.php:80
+#@ better-studio
+msgid "BetterStudio - Like Box"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:58
+#@ better-studio
+msgid "Sort and Active Sites"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:98
+#@ better-studio
+msgid "BetterStudio - Social Share"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-social-share-widget.php:99
+#@ better-studio
+msgid "Social Share Widget"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:66
+#@ better-studio
+msgid "Username:"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:72
+#@ better-studio
+msgid "Consumer Key:"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:78
+#@ better-studio
+msgid "Consumer Secret:"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:84
+#@ better-studio
+msgid "Access Token:"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:90
+#@ better-studio
+msgid "Access Secret:"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:96
+#@ better-studio
+msgid "Number of Tweets:"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:102
+#@ better-studio
+msgid "Open Tweet Links in New Page?"
+msgstr ""
+
+#: includes/libs/better-framework/widget/widgets/class-bf-twitter-widget.php:111
+#@ better-studio
+msgid "BetterStudio - Twitter"
+msgstr ""
+
+#: includes/shortcodes/class-better-weather-shortcode.php:14
+#@ better-studio
+msgid "Modern listing with 2, 3 and 4 column option"
+msgstr ""
+
+#: includes/widgets/class-better-weather-inline-widget.php:28
+#: includes/widgets/class-better-weather-widget.php:28
+#@ better-studio
+msgid "How to find location value!?"
+msgstr ""
+
+#: includes/widgets/class-better-weather-inline-widget.php:32
+#@ better-studio
+msgid "Widget Size"
+msgstr ""
+
+#: includes/widgets/class-better-weather-inline-widget.php:37
+#@ better-studio
+msgid "Large Style"
+msgstr ""
+
+#: includes/widgets/class-better-weather-inline-widget.php:38
+#@ better-studio
+msgid "Medium Style"
+msgstr ""
+
+#: includes/widgets/class-better-weather-inline-widget.php:39
+#@ better-studio
+msgid "Small Style"
+msgstr ""
+
+#: includes/widgets/class-better-weather-inline-widget.php:49
+#: includes/widgets/class-better-weather-widget.php:90
+#@ better-studio
+msgid "Animated Icon"
+msgstr ""
+
+#: includes/widgets/class-better-weather-inline-widget.php:50
+#: includes/widgets/class-better-weather-widget.php:91
+#@ better-studio
+msgid "Static Icon"
+msgstr ""
+
+#: includes/widgets/class-better-weather-inline-widget.php:72
+#: includes/widgets/class-better-weather-widget.php:113
+#@ better-studio
+msgid "Show Temperature Unit?"
+msgstr ""
+
+#: includes/widgets/class-better-weather-inline-widget.php:78
+#: includes/widgets/class-better-weather-widget.php:119
+#@ better-studio
+msgid "Show Visitors Location Status!?"
+msgstr ""
+
+#: includes/widgets/class-better-weather-inline-widget.php:81
+#: includes/widgets/class-better-weather-widget.php:122
+#@ better-studio
+msgid "Before using this you should read <a target=\"_blank\" href=\"http://better-studio.net/plugins/better-weather/wp/#requests-note\">this note</a>"
+msgstr ""
+
+#: includes/widgets/class-better-weather-inline-widget.php:88
+#@ better-studio
+msgid "Better Weather Inline"
+msgstr ""
+
+#: includes/widgets/class-better-weather-inline-widget.php:89
+#@ better-studio
+msgid "Inline Weather Widget"
+msgstr ""
+
+#: includes/widgets/class-better-weather-widget.php:32
+#@ better-studio
+msgid "Custom Location Name:"
+msgstr ""
+
+#: includes/widgets/class-better-weather-widget.php:62
+#@ better-studio
+msgid "Show Next 4 Days Forecast!?"
+msgstr ""
+
+#: includes/widgets/class-better-weather-widget.php:132
+#@ better-studio
+msgid "Boxed Weather Widget"
+msgstr ""
+

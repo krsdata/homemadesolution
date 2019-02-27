@@ -1,0 +1,1 @@
+[24-Nov-2017 16:12:53 Asia/Calcutta] PHP Fatal error:  Class 'WP_Customize_Image_Control' not found in /home/homemade/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17

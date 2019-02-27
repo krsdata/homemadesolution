@@ -1,0 +1,58 @@
+
+.betterstudio-review .criteria-list li .rating-stars{
+    float: left;
+}
+
+/**
+ * =>Star rating
+ **/
+.rating-stars span,
+.rating-bar{
+    direction: rtl;
+}
+.rating-stars {
+    text-align: right;
+}
+.rating-stars span {
+    right: 0;
+    left: auto;
+}
+.post-meta .rating-stars span:before,
+.post-meta .rating-stars span,
+.post-meta .rating-stars:before,
+.post-meta .rating-stars {
+    float: left;
+    direction: rtl;
+}
+
+
+/**
+ * =>Bar rating
+ **/
+.rating-bar {
+    text-align: right;
+}
+.rating-bar span.rate-number {
+    left: -20px;
+    right: auto;
+}
+.post-meta .rating-bar {
+    float: left;
+}
+
+.betterstudio-review {
+    clear: right;
+}
+.betterstudio-review .verdict .overall {
+    float: left
+}
+.betterstudio-review .verdict-summary {
+    padding-left: 180px;
+    padding-right: 0;
+}
+.betterstudio-review .criteria-list li .criterion .rate {
+    float: left;
+}
+.betterstudio-review .criteria-list li .rating-stars {
+    float: left;
+}

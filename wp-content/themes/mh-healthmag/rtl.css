@@ -1,0 +1,13 @@
+/***** Stylesheet to support RTL languages *****/
+
+blockquote { border-color: #e91f48; }
+.mh-posts-grid-col { margin-right: 3.52%; margin-left: 0; }
+.mh-slider-widget .flex-control-nav { left: 15px; right: auto; }
+.mh-widget-col-1 .flex-control-nav, .mh-widget-col-2 .flex-control-nav { left: 10px; right: auto; }
+
+@media screen and (max-width: 767px) {
+	.mh-posts-grid-col { margin-right: 2.5%; margin-left: 0; }
+}
+@media screen and (max-width: 620px) {
+	.mh-posts-grid-thumb { float: right; margin: 0 0 20px 15px; }
+}

@@ -1,0 +1,7 @@
+[24-Nov-2017 17:36:36 Asia/Calcutta] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/homemade/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php on line 17
+[24-Nov-2017 18:35:12 Asia/Calcutta] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/homemade/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[24-Nov-2017 22:03:09 Asia/Calcutta] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/homemade/public_html/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php on line 17
+[30-Jan-2018 14:18:12 Asia/Calcutta] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/homemade/public_html/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17
+[04-Feb-2018 20:35:07 Asia/Calcutta] PHP Fatal error:  Class 'WP_REST_Controller' not found in /home/homemade/public_html/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php on line 17
+[07-Mar-2018 02:03:24 Asia/Calcutta] PHP Fatal error:  Class 'WP_REST_Posts_Controller' not found in /home/homemade/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[07-Mar-2018 03:29:38 Asia/Calcutta] PHP Fatal error:  Class 'WP_REST_Posts_Controller' not found in /home/homemade/public_html/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17

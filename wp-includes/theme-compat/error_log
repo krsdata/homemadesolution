@@ -1,0 +1,5 @@
+[24-Nov-2017 10:49:10 Asia/Calcutta] PHP Fatal error:  Call to undefined function post_class() in /home/homemade/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[24-Nov-2017 15:44:58 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-includes/theme-compat/embed.php on line 13
+[24-Nov-2017 17:08:42 Asia/Calcutta] PHP Fatal error:  Call to undefined function do_action() in /home/homemade/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[24-Nov-2017 19:33:48 Asia/Calcutta] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/homemade/public_html/wp-includes/theme-compat/header.php on line 9
+[24-Nov-2017 19:42:11 Asia/Calcutta] PHP Fatal error:  Call to undefined function language_attributes() in /home/homemade/public_html/wp-includes/theme-compat/header-embed.php on line 19

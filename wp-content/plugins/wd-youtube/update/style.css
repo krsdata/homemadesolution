@@ -1,0 +1,281 @@
+#settings {
+  background: #ffffff none repeat scroll 0 0;
+  padding: 15px;
+}
+
+#settings-content {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+#add_on_title {
+  margin-bottom: 20px;
+}
+
+.add-on a {
+  text-decoration: none;
+}
+
+.add-on h2 {
+  color: #229DBF;
+  font-size: 16px;
+  margin-bottom: 9px;
+  padding: 0 0 7px;
+  line-height: 1.2;
+}
+
+.addon-descr {
+  font-size: 13px;
+  line-height: 18px;
+  height: 100%;
+  width: 53%;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 8px 10px 10px;
+  background: #23282D;
+  color: #D1DDE0;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transform-origin: 0 0;
+  -moz-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transform: rotateY(-90deg);
+  -moz-transform: rotateY(-90deg);
+  transform: rotateY(-90deg);
+  -webkit-transition: -webkit-transform 0.4s, opacity 0.1s 0.3s;
+  -moz-transition: -moz-transform 0.4s, opacity 0.1s 0.3s;
+  transition: transform 0.4s, opacity 0.1s 0.3s;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+.grid figcaption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    background: #2c3f52;
+    color: #ed4e6e;
+}
+
+.addon,
+.addon-price {
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 15px;
+  border: 1px solid #DCDCDC;
+  font-weight: bold;
+}
+
+.addon {
+  /*background: #FFFFFF url("images/Add_Ons.jpg") no-repeat 6px center;*/
+  color: #66686B;
+  padding: 9px 12px 9px 45px;
+  width: 100%;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+.addon-price {
+  background: #FFFFFF;
+  color: #229CBF;
+  padding: 9px 12px;
+}
+
+.add-on:hover .addon-price,
+.addon-price:hover {
+  background: #229CBF;
+  color: #DDECF1;
+}
+
+.add-on:hover .addon,
+.addon:hover {
+  /*background: #23282D url("images/Add_Ons_hover.jpg") no-repeat 6px center;*/
+  color: #DDDEDE;
+}
+
+.addon span {
+  border-left: 1px solid #A7A9AB;
+  padding: 4px 10px 4px 10px;
+}
+
+.addon-descr span {
+  padding: 5px 0 5px 10px;
+  border-left: 1px solid #93CEE0;
+}
+
+a:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.add-on {
+  width: 310px;
+  height: 320px;
+  float: left;
+  margin-right: 40px;
+  margin-bottom: 40px;
+  -webkit-perspective: 1700px;
+  -moz-perspective: 1700px;
+  perspective: 1700px;
+  -webkit-perspective-origin: 0 50%;
+  -moz-perspective-origin: 0 50%;
+  perspective-origin: 0 50%;
+  position: relative;
+}
+
+.main-plugin .add-on {
+  float: left;
+  margin-right: 25px;
+  height: auto;
+}
+
+#settings-content .addons_updates::after,
+#settings-content .main-plugin::after,
+#settings-content::after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.figure {
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  position: relative;
+  width: 100%;
+  height: 232px;
+  margin: 0;
+}
+
+.figure-img {
+  overflow: hidden;
+}
+
+.figure-img img {
+  -webkit-transition: -webkit-transform 0.4s;
+  -moz-transition: -moz-transform 0.4s;
+  transition: transform 0.4s;
+}
+
+.figure:hover img {
+  -webkit-transform: translateX(25%);
+  -moz-transform: translateX(25%);
+  -ms-transform: translateX(25%);
+  transform: translateX(25%);
+}
+
+.figure:hover figcaption {
+  opacity: 1;
+  -webkit-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  transform: rotateY(0deg);
+  -webkit-transition: -webkit-transform 0.4s, opacity 0.1s;
+  -moz-transition: -moz-transform 0.4s, opacity 0.1s;
+  transition: transform 0.4s, opacity 0.1s;
+}
+
+.addon-subtitle {
+  font-size: 25px;
+  border-bottom: 1px solid #C1C4C7;
+  padding-bottom: 23px;
+}
+
+.main-plugin .main-plugin-img {
+  float: left;
+  margin-right: 2%;
+  width: 26%;
+}
+
+.main-plugin .main-plugin-img img {
+    max-width: 100%;
+}
+.main-plugin .main-plugin-info {
+  float: left;
+}
+
+.main-plugin {
+  margin-bottom: 25px;
+}
+
+.main-plugin_desc-cont p,
+.main-plugin_desc-cont {
+  font-size: 14px;
+}
+
+.main-plugin-desc-info p {
+  margin: 2px 0 13px;
+}
+
+.addons_updates .main-plugin-desc-info p {
+  margin: 2px 0 4px;
+}
+
+.main-plugin-desc {
+  margin-bottom: 12px;
+}
+
+.main-plugin-info h2 {
+  padding: 0;
+  line-height: 1;
+  margin-bottom: 14px;
+}
+
+.main-plugin-info h2 a {
+  color: #323A45;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.main-plugin-desc-info {
+  border-bottom: 1px solid #C0C4C7;
+  width: 71%;
+}
+
+.addons_updates .main-plugin-desc-info {
+  border-bottom: 0;
+  width: 100%;
+}
+
+.update-info {
+  background: url("images/updates-icon.png") no-repeat;
+  background-size: 15px 15px;
+  background-position: center left;
+  padding-left: 25px;
+  color: #bc0b0b;
+}
+
+.update-info-a,
+.update-info-a:hover,
+.update-info-a:focus,
+.update-info-a:active {
+  color: #bc0b0b;
+}
+
+.addons_updates .figure {
+  margin-bottom: 10px;
+}
+
+.addons_updates .addon-descr-update {
+  border-top: 1px solid #898989;
+  padding-top: 6px;
+}
+
+.addons_updates h2 {
+  color: #323A45;
+  text-decoration: none;
+  font-weight: bold;
+  border-bottom: 0;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.more_updates {
+  display: none;
+}

@@ -1,0 +1,346 @@
+/***
+ *  BetterFramework is BetterStudio framework for themes and plugins.
+ *
+ *  ______      _   _             ______                                           _
+ *  | ___ \    | | | |            |  ___|                                         | |
+ *  | |_/ / ___| |_| |_ ___ _ __  | |_ _ __ __ _ _ __ ___   _____      _____  _ __| | __
+ *  | ___ \/ _ \ __| __/ _ \ '__| |  _| '__/ _` | '_ ` _ \ / _ \ \ /\ / / _ \| '__| |/ /
+ *  | |_/ /  __/ |_| ||  __/ |    | | | | | (_| | | | | | |  __/\ V  V / (_) | |  |   <
+ *  \____/ \___|\__|\__\___|_|    \_| |_|  \__,_|_| |_| |_|\___| \_/\_/ \___/|_|  |_|\_\
+ *
+ *  Copyright © 2017 Better Studio
+ *
+ *
+ *  Our portfolio is here: http://themeforest.net/user/Better-Studio/portfolio
+ *
+ *  \--> BetterStudio, 2017 <--/
+ */
+
+
+.bs-product-pages-install-plugin{
+    margin-left: -1.5%;
+    margin-right: -1.5%;
+}
+.bs-product-pages-install-plugin:after {
+    content: ' ';
+    display: table;
+    clear: both;
+}
+.bs-pages-plugin-item {
+    width: 30%;
+    max-width: 300px;
+    float: left;
+
+    background: #f7f7f7;
+
+    -webkit-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.13);
+    -moz-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.13);
+    box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.13);
+
+    height: 360px;
+
+    font-family: "Open Sans", Helvetica, sans-serif;
+    font-size: 15px;
+    color: #3b3b3b;
+
+    margin-right: 1.5%;
+    margin-left: 1.5%;
+    margin-bottom: 25px;
+
+    position: relative;
+    overflow: hidden;
+}
+
+.bs-pages-plugin-item figure {
+    display: block;
+    margin: 0;
+    padding: 0;
+    height:200px;
+    background: #fff;
+    overflow: hidden;
+}
+.bs-pages-plugin-item figure img {
+    max-width:100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.bs-pages-plugin-item-footer:before {
+    background: linear-gradient(#e4e4e4 0%, #f7f7f7 100%);
+    content: " ";
+    display: block;
+    height: 9px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    left: 0;
+}
+.bs-pages-plugin-item-footer {
+    position: relative;
+    background: #f7f7f7;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    min-height: 160px;
+    padding-top: 9px;
+}
+
+
+.bs-pages-plugin-name {
+    color: #3b3b3b;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 8px;
+    display: block;
+    white-space: nowrap;
+}
+.bs-pages-plugin-description {
+    height: 38px;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    overflow: hidden;
+    line-height: 1.5;
+    font-size: 13px;
+}
+.bs-pages-buttons {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+.bs-pages-buttons a {
+    margin: 0 12px 0 0;
+    white-space: nowrap;
+    display: inline-block;
+}
+.bs-pages-buttons > span {
+    display: none;
+}
+.bs-pages-buttons .update-plugin a {
+    background-color: #06bb51;
+    border-color: #007c33;
+}
+
+.plugin-not-installed .install-plugin,
+.plugin-inactive:not(.plugin-update-available) .active-plugin,
+.plugin-active:not(.plugin-update-available) .deactivate-plugin,
+.deactivate-plugin .active-plugin,
+.plugin-update-available .update-plugin {
+    display: inline-block;
+    width: 100%;
+}
+.bs-pages-plugin-item-footer-wrapper {
+    padding: 10px 18px;
+}
+
+/*.deactivate-plugin {
+    margin-top: 7px;
+}*/
+.bs-pages-ribbon-wrapper {
+    position: relative;
+    overflow: visible;
+    opacity: 1;
+
+    -webkit-transition: opacity 0.5s;
+    -moz-transition: opacity 0.5s;
+    -ms-transition: opacity 0.5s;
+    -o-transition: opacity 0.5s;
+    transition: opacity 0.5s;
+
+    position: absolute;
+    left: 0;
+}
+.bs-pages-ribbon-wrapper .bs-pages-ribbon {
+    border-right: 76px solid transparent;
+    border-top: 84px solid #dc4742;
+    height: 0;
+    width: 0;
+}
+.bs-pages-ribbon-wrapper.bs-plugin-update {
+    right: 0;
+    left: auto;
+}
+.bs-pages-ribbon-wrapper.bs-plugin-update .bs-pages-ribbon {
+    border-top: 68px solid #06bb51;
+    border-left: 67px solid transparent;
+    border-right: none;
+}
+.plugin-active .bs-plugin-required,
+ .bs-pages-plugin-item:not(.plugin-update-available) .bs-plugin-update {
+    opacity: 0;
+}
+.bs-pages-ribbon-label {
+    position: absolute;
+    color: #fff;
+    font-weight: 600;
+    font-size: 13px;
+    top: 10px;
+    left: 10px;
+    text-align: left;
+}
+.bs-plugin-update .bs-pages-ribbon-label {
+    right: 15px;
+    left: auto;
+    top: 10px;
+}
+.bs-pages-ribbon-label .txt {
+    -webkit-transform: rotate(312deg);
+    -moz-transform: rotate(312deg);
+    -ms-transform: rotate(312deg);
+    -o-transform: rotate(312deg);
+    transform: rotate(312deg);
+    display: block;
+    margin-left: -10px;
+    margin-top: -10px;
+    font-weight: 400;
+    font-size: 13px;
+}
+.bs-pages-ribbon-label .fa {
+    font-size: 18px;
+}
+.bs-pages-primary-btn {
+    padding: 3px 13px;
+}
+.bs-pages-secondary-btn {
+    background: none;
+    border: none;
+    color: #a9a9a9;
+}
+.bs-pages-buttons {
+    margin-top: 14px;
+    font-weight: normal;
+    font-size: 14px;
+}
+.bs-pages-plugin-item .success-message {
+    color: #06bb51;
+    text-align: right;
+    font-size: 14px;
+    font-weight: bold;
+}
+.bs-pages-plugin-item .bs-pages-progressbar {
+    position: absolute;
+    top: 0;
+}
+.bs-pages-plugin-item .active-error {
+    display: block;
+    margin-top: 30px;
+    color: #f13838;
+    font-size: 12px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.bs-pages-plugin-item.plugin-disabled .bs-pages-overlay {
+    display: block;
+}
+.bs-pages-plugin-item.plugin-disabled {
+    opacity:0.5;
+}
+.bs-pages-plugin-item .messages>div {
+    display: none;
+}
+.bs-pages-plugin-item .messages {
+    margin-top: 14px;
+}
+.bs-pages-plugin-item .messages .deactivate-plugin {
+    margin-top: 12px;
+}
+.bs-pages-plugin-item button {
+    border: 1px solid #e3e3e3;
+    background: none;
+    color: #00a0d2;
+    padding: 7px 9px;
+    -webkit-border-radius:2px;
+    -moz-border-radius:2px;
+    border-radius:2px;
+}
+.bs-pages-plugin-item button .fa {
+    margin-right: 4px;
+}
+@media only screen and (max-width : 992px) {
+    .bs-pages-plugin-item {
+        width: 48%;
+        margin-left: 2%;
+        margin-right: 0;
+    }
+    .bs-product-pages-install-plugin {
+        margin: 0 auto;
+        display: block;
+        width: 670px;
+        max-width:100%;
+    }
+}
+@media only screen and (max-width : 690px) {
+    .bs-pages-plugin-item {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .bs-product-pages-install-plugin {
+        margin: 0 auto;
+        display: block;
+        width: 310px;
+        max-width:100%;
+    }
+}
+
+
+/**
+    =>RTL FIX
+ **/
+.rtl .bs-product-pages-install-plugin {
+    margin-right: -1.5%;
+    margin-left: -1.5%;
+}
+.rtl .bs-pages-plugin-item {
+    float: right;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+}
+.rtl .bs-pages-plugin-item-footer:before {
+    right: 0;
+    left: auto;
+}
+.rtl .bs-pages-buttons a {
+    margin: 0 0 0 12px;
+}
+.rtl .bs-pages-ribbon-wrapper {
+    right: 0;
+    left: auto;
+}
+.rtl .bs-pages-ribbon-wrapper .bs-pages-ribbon {
+    border-left: 76px solid transparent;
+    border-right: none;
+}
+.rtl .bs-pages-ribbon-wrapper.bs-plugin-update {
+    left: 0;
+    right: auto;
+}
+.rtl .bs-pages-ribbon-wrapper.bs-plugin-update .bs-pages-ribbon {
+    border-right: 67px solid transparent;
+    border-left: none;
+}
+.rtl .bs-pages-ribbon-label {
+    right: 10px;
+    text-align: right;
+    left: auto;
+}
+.rtl .bs-plugin-update .bs-pages-ribbon-label {
+    left: 15px;
+    right: auto;
+}
+.rtl .bs-pages-ribbon-label .txt {
+    margin-right: -10px;
+    margin-left: auto;
+}
+.rtl .bs-pages-plugin-item .success-message {
+    text-align: left;
+}
+.rtl .bs-pages-plugin-item button .fa {
+    margin-left: 4px;
+    margin-right: auto;
+}
+@media only screen and (max-width : 992px) {
+    .rtl .bs-pages-plugin-item button .fa {
+        margin-left: 4px;
+        margin-right: auto;
+    }
+}

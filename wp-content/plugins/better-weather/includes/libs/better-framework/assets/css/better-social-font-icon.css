@@ -1,0 +1,144 @@
+/***
+ *  BetterFramework is BetterStudio framework for themes and plugins.
+ *
+ *  ______      _   _             ______                                           _
+ *  | ___ \    | | | |            |  ___|                                         | |
+ *  | |_/ / ___| |_| |_ ___ _ __  | |_ _ __ __ _ _ __ ___   _____      _____  _ __| | __
+ *  | ___ \/ _ \ __| __/ _ \ '__| |  _| '__/ _` | '_ ` _ \ / _ \ \ /\ / / _ \| '__| |/ /
+ *  | |_/ /  __/ |_| ||  __/ |    | | | | | (_| | | | | | |  __/\ V  V / (_) | |  |   <
+ *  \____/ \___|\__|\__\___|_|    \_| |_|  \__,_|_| |_| |_|\___| \_/\_/ \___/|_|  |_|\_\
+ *
+ *  Copyright © 2017 Better Studio
+ *
+ *
+ *  Our portfolio is here: http://themeforest.net/user/Better-Studio/portfolio
+ *
+ *  \--> BetterStudio, 2017 <--/
+ */
+
+/*
+
+    Better Social Font Icon
+    v1.1
+
+*/
+@font-face{
+    font-family: "Better Social Font Icon";
+    src:url("../fonts/better-social-font-icon.eot");
+    src:url("../fonts/better-social-font-icon.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/better-social-font-icon.woff") format("woff"),
+    url("../fonts/better-social-font-icon.ttf") format("truetype"),
+    url("../fonts/better-social-font-icon.svg#better-social-font-icon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[data-icon]:before{
+    font-family: "Better Social Font Icon" !important;
+    content: attr(data-icon);
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="bsfi-"]:before,
+[class*=" bsfi-"]:before{
+    font-family: "Better Social Font Icon" !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.bsfi-facebook:before {
+    content: "\61";
+}
+.bsfi-twitter:before {
+    content: "\62";
+}
+.bsfi-gplus:before {
+    content: "\63";
+}
+.bsfi-dribbble:before {
+    content: "\64";
+}
+.bsfi-vimeo:before {
+    content: "\65";
+}
+.bsfi-rss:before {
+    content: "\66";
+}
+.bsfi-github:before {
+    content: "\67";
+}
+.bsfi-vk:before {
+    content: "\68";
+}
+.bsfi-delicious:before {
+    content: "\69";
+}
+.bsfi-youtube:before {
+    content: "\6a";
+}
+.bsfi-soundcloud:before {
+    content: "\6b";
+}
+.bsfi-behance:before {
+    content: "\6c";
+}
+.bsfi-pinterest:before {
+    content: "\6d";
+}
+.bsfi-vine:before {
+    content: "\6e";
+}
+.bsfi-steam:before {
+    content: "\6f";
+}
+.bsfi-flickr:before {
+    content: "\70";
+}
+.bsfi-envato:before {
+    content: "\71";
+}
+.bsfi-forrst:before {
+    content: "\73";
+}
+.bsfi-mailchimp:before {
+    content: "\75";
+}
+.bsfi-linkedin:before {
+    content: "\74";
+}
+.bsfi-tumblr:before {
+    content: "\77";
+}
+.bsfi-500px:before {
+    content: "\78";
+}
+.bsfi-members:before {
+    content: "\41";
+}
+.bsfi-comments:before {
+    content: "\79";
+}
+.bsfi-posts:before {
+    content: "\76";
+}
+.bsfi-instagram:before {
+    content: "\72";
+}
+
+/* alias */
+.bsfi-google:before {
+    content: "c";
+}

@@ -1,0 +1,17 @@
+[06-Oct-2017 02:27:40 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-content/themes/mh-magazine/index.php on line 1
+[01-Feb-2018 17:29:51 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-content/themes/mh-magazine/404.php on line 1
+[01-Feb-2018 17:29:51 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-content/themes/mh-magazine/404.php on line 1
+[01-Feb-2018 21:22:39 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-content/themes/mh-magazine/404.php on line 1
+[01-Feb-2018 21:22:39 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-content/themes/mh-magazine/404.php on line 1
+[07-Mar-2018 09:01:02 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-content/themes/mh-magazine/archive.php on line 1
+[07-Mar-2018 09:01:03 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-content/themes/mh-magazine/archive.php on line 1
+[15-Mar-2018 13:47:17 Asia/Calcutta] PHP Fatal error:  Call to undefined function mh_html_class() in /home/homemade/public_html/wp-content/themes/mh-magazine/header.php on line 2
+[16-Mar-2018 15:41:47 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-content/themes/mh-magazine/404.php on line 1
+[16-Mar-2018 15:41:47 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-content/themes/mh-magazine/404.php on line 1
+[28-Mar-2018 08:38:47 Asia/Calcutta] PHP Fatal error:  Call to undefined function mh_html_class() in /home/homemade/public_html/wp-content/themes/mh-magazine/header.php on line 2
+[29-Mar-2018 08:13:16 Asia/Calcutta] PHP Fatal error:  Call to undefined function mh_html_class() in /home/homemade/public_html/wp-content/themes/mh-magazine/header.php on line 2
+[29-Mar-2018 12:24:13 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-content/themes/mh-magazine/index.php on line 1
+[02-Aug-2018 10:28:48 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-content/themes/mh-magazine/index.php on line 1
+[02-Aug-2018 13:14:43 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-content/themes/mh-magazine/index.php on line 1
+[02-Aug-2018 13:14:46 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-content/themes/mh-magazine/index.php on line 1
+[02-Aug-2018 13:14:47 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_header() in /home/homemade/public_html/wp-content/themes/mh-magazine/index.php on line 1

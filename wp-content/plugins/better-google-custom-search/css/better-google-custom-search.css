@@ -1,0 +1,130 @@
+/*
+
+    Better Google Custom Search style
+
+
+    1. =>Input box
+            1.1. =>Hide Search Button
+
+    2. =>Search Result
+*/
+
+
+/**
+ * 1. =>Input box
+ **/
+.gsc-preview-reviews{
+    padding: 0;
+}
+
+
+/**
+ * 1.1. =>Hide Search Button
+ **/
+.better-gcs-input.hide-search-button td.gsc-search-button {
+    display: none !important;
+    width: 1px !important;
+}
+.better-gcs-input.hide-search-button td.gsc-clear-button {
+    display: none !important;
+    width: 1px !important;
+}
+.better-gcs-input.hide-search-button .gsc-search-box {
+    width: 100% !important;
+}
+.better-gcs-input.hide-search-button td.gsc-input{
+    padding: 0 !important;
+}
+.better-gcs-input.hide-search-button .gsc-input{
+    width: 100% !important;
+}
+.better-gcs-input.hide-search-button.SHINY input.gsc-input{
+    width: 96% !important;
+}
+
+/**
+ * 1.2. =>Hide Ads
+ **/
+.better-gcs-wrapper.hide-adsin .gsc-adBlock {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+
+/**
+ * 2. =>Search Result
+ **/
+.better-gcs-result{
+    padding-bottom: 20px;
+}
+.better-gcs-result .gs-web-image-box,
+.better-gcs-result .gs-promotion-image-box{
+    margin-right: 10px;
+}
+.better-gcs-result .gsc-result .gs-title{
+    margin-bottom: 5px;
+}
+.better-gcs-result .gs-webResult .gs-visibleUrl{
+    margin-top: 3px;
+}
+
+
+
+.better-gcs-result .gs-web-image-box img.gs-image,
+.better-gcs-result .gs-promotion-image-box img.gs-promotion-image {
+    max-width: 150px;
+    max-height: 150px;
+}
+.better-gcs-result .gs-web-image-box,
+.better-gcs-result .gs-promotion-image-box {
+    width: 160px;
+}
+.better-gcs-result .gsc-result .gs-title{
+    text-decoration: none;
+}
+.better-gcs-result .gsc-result .gs-title *{
+    color: #2b2b2b;
+    text-decoration: none;
+}
+.better-gcs-result .gsc-result .gs-title a{
+    text-decoration: none;
+}
+.better-gcs-result .gs-result a.gs-visibleUrl,
+.better-gcs-result .gs-result .gs-visibleUrl,
+.better-gcs-result .gsc-result .gs-title:hover *,
+.better-gcs-result .gsc-result .gs-title:hover{
+    color: #0073c3;
+}
+
+.better-gcs-input .gsc-branding{
+    display: none;
+}
+.better-gcs-input .gsc-clear-button{
+    display: none;
+}
+
+.better-gcs-result .gsc-results .gsc-cursor-box{
+    margin-top: 20px;
+}
+.better-gcs-result .gsc-results .gsc-cursor-box .gsc-cursor-page{
+    display: inline-block;
+    padding: 0 10px;
+    line-height: 24px;
+    border: 1px solid #eee;
+    text-align: center;
+    text-decoration: none;
+}
+.better-gcs-result .gsc-results .gsc-cursor-box .gsc-cursor-page:hover,
+.better-gcs-result .gsc-results .gsc-cursor-box .gsc-cursor-current-page{
+    color: #0073c3;
+}
+.better-gcs-result .gsc-result-info{
+    margin-top: 4px;
+    margin-bottom: 6px;
+}
+.gcsc-branding img{
+    vertical-align: middle;
+}
+.gcsc-branding-text.gcsc-branding-text-name{
+    display: none;
+}
